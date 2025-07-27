@@ -1,0 +1,1344 @@
+﻿as_of_date,accountid,wabanumber,tmplid,tmplname,country,sourcesystem,origintype,pricingtype,pricingmodel,requestedcount,submittedcount,sentcount,deliveredcount,readcount,failedcount,pendingcount,notsentcount
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Australia,ENT,authentication,NA,PMP,137,137,0,0,0,137,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Australia,ENT,authentication,regular,PMP,84,84,80,79,40,4,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Austria,ENT,authentication,NA,PMP,41,41,0,0,0,41,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Bulgaria,ENT,authentication,NA,PMP,30,30,0,0,0,30,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Bulgaria,ENT,authentication,regular,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Denmark,ENT,authentication,NA,PMP,9,9,0,0,0,9,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Dominica,ENT,authentication,NA,PMP,20,20,0,0,0,20,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Dominican Republic,ENT,authentication,NA,PMP,9,9,0,0,0,9,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Dominican Republic,ENT,authentication,regular,PMP,7,7,7,7,0,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Finland,ENT,authentication,NA,PMP,10,10,0,0,0,10,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Finland,ENT,authentication,regular,PMP,2,2,2,2,0,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,France,ENT,authentication,NA,PMP,10,10,0,0,0,10,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,France,ENT,authentication,regular,PMP,8,8,7,7,3,1,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Germany,ENT,authentication,NA,PMP,34,34,0,0,0,34,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Germany,ENT,authentication,regular,PMP,18,18,18,17,10,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Hong Kong,ENT,authentication,NA,PMP,2,2,0,0,0,2,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Hong Kong,ENT,authentication,regular,PMP,17,17,14,13,8,3,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Hungary,ENT,authentication,NA,PMP,2,2,0,0,0,2,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,India,ENT,authentication,NA,PMP,44,44,0,0,0,44,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,India,ENT,authentication,regular,PMP,147,147,147,139,79,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Indonesia,ENT,authentication,NA,PMP,8,8,0,0,0,8,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Indonesia,ENT,authentication,regular,PMP,4,4,4,4,2,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Ireland,ENT,authentication,NA,PMP,8,8,0,0,0,8,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Ireland,ENT,authentication,regular,PMP,22,22,22,22,6,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Israel,ENT,authentication,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Israel,ENT,authentication,regular,PMP,3,3,3,2,1,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Italy,ENT,authentication,NA,PMP,2,2,0,0,0,2,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Italy,ENT,authentication,regular,PMP,5,5,5,5,2,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Jamaica,ENT,authentication,NA,PMP,15,15,0,0,0,15,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Jamaica,ENT,authentication,regular,PMP,3,3,3,2,2,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Japan,ENT,authentication,NA,PMP,20,20,0,0,0,20,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Japan,ENT,authentication,regular,PMP,2,2,2,2,0,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Kuwait,ENT,authentication,NA,PMP,12,12,0,0,0,12,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Kuwait,ENT,authentication,regular,PMP,21,21,21,21,13,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Malaysia,ENT,authentication,NA,PMP,4,4,0,0,0,4,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Malaysia,ENT,authentication,regular,PMP,14,14,14,14,9,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Nepal,ENT,authentication,NA,PMP,38,38,0,0,0,38,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Nepal,ENT,authentication,regular,PMP,16,16,16,16,10,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,New Zealand,ENT,authentication,NA,PMP,8,8,0,0,0,8,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,New Zealand,ENT,authentication,regular,PMP,13,13,13,13,10,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Puerto Rico,ENT,authentication,NA,PMP,10,10,0,0,0,10,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Puerto Rico,ENT,authentication,regular,PMP,3,3,3,3,1,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Qatar,ENT,authentication,NA,PMP,20,20,0,0,0,20,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Qatar,ENT,authentication,regular,PMP,36,36,36,36,25,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Russia,ENT,authentication,NA,PMP,5,5,0,0,0,5,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Russia,ENT,authentication,regular,PMP,10,10,10,10,10,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Saint Kitts and Nevis,ENT,authentication,NA,PMP,14,14,0,0,0,14,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Saint Lucia,ENT,authentication,NA,PMP,5,5,0,0,0,5,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Saint Vincent and the Grenadines,ENT,authentication,NA,PMP,10,10,0,0,0,10,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Saudi Arabia,ENT,authentication,NA,PMP,34,34,0,0,0,34,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Saudi Arabia,ENT,authentication,regular,PMP,60,60,57,52,28,3,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Singapore,ENT,authentication,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Sint Maarten,ENT,authentication,NA,PMP,6,6,0,0,0,6,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,South Africa,ENT,authentication,NA,PMP,3,3,0,0,0,3,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,South Africa,ENT,authentication,regular,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Spain,ENT,authentication,NA,PMP,2,2,0,0,0,2,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Spain,ENT,authentication,regular,PMP,11,11,11,11,6,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Sweden,ENT,authentication,NA,PMP,5,5,0,0,0,5,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Sweden,ENT,authentication,regular,PMP,7,7,7,7,5,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Switzerland,ENT,authentication,NA,PMP,2,2,0,0,0,2,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Switzerland,ENT,authentication,regular,PMP,10,10,8,7,3,2,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Thailand,ENT,authentication,NA,PMP,9,9,0,0,0,9,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Thailand,ENT,authentication,regular,PMP,7,7,7,7,5,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,Trinidad and Tobago,ENT,authentication,NA,PMP,22,22,0,0,0,22,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United Arab Emirates,ENT,AC,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United Arab Emirates,ENT,AC_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United Arab Emirates,ENT,authentication,NA,PMP,183,183,0,0,0,183,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United Arab Emirates,ENT,authentication,regular,PMP,263,263,263,261,163,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United Kingdom,ENT,authentication,NA,PMP,"1,426","1,426",0,0,0,"1,426",0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United Kingdom,ENT,authentication,regular,PMP,172,172,169,162,90,3,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United States,ENT,AC,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United States,ENT,authentication,NA,PMP,"6,146","6,146",0,0,0,"6,146",0,0
+"July 25, 2025",2000205432,9.18068E+11,7125860,otp_traffic_free,United States,ENT,authentication,regular,PMP,"1,224","1,224","1,214","1,139",691,10,0,0
+"July 25, 2025",2000205432,9.18068E+11,7207813,rated_orders_resolution_good_ratings_resolution_v2,India,ENT,marketing_lite,NA,PMP,279,279,0,0,0,279,0,0
+"July 25, 2025",2000205432,9.18068E+11,7207813,rated_orders_resolution_good_ratings_resolution_v2,India,ENT,marketing_lite,regular,PMP,539,539,539,517,389,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7207813,rated_orders_resolution_good_ratings_resolution_v2,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000205432,9.18068E+11,7207813,rated_orders_resolution_good_ratings_resolution_v2,United States,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000207232,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,8,0,0,0,0,8,0,8
+"July 25, 2025",2000207232,9.18068E+11,1391445,mb_claimed_no_food_order_gs_01042025,India,ENT,marketing_lite,NA,PMP,"3,220","3,220",0,0,0,"3,220",0,0
+"July 25, 2025",2000207232,9.18068E+11,1391445,mb_claimed_no_food_order_gs_01042025,India,ENT,marketing_lite,regular,PMP,"9,098","9,098","9,064","8,693","5,930",36,0,0
+"July 25, 2025",2000207232,9.18068E+11,1391445,mb_claimed_no_food_order_gs_01042025,India,ENT,ML,NA,CBP,0,0,0,0,46,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1391445,NA,India,ENT,NA,NA,PMP,289,0,0,0,0,289,0,0
+"July 25, 2025",2000207232,9.18068E+11,1475885,NA,India,ENT,NA,NA,PMP,213,0,0,0,0,213,0,0
+"July 25, 2025",2000207232,9.18068E+11,1475885,swiggy_one_black_rbe_wa2_gs_07052025_v2,India,ENT,marketing_lite,NA,PMP,"3,858","3,858",0,0,0,"3,858",0,0
+"July 25, 2025",2000207232,9.18068E+11,1475885,swiggy_one_black_rbe_wa2_gs_07052025_v2,India,ENT,marketing_lite,regular,PMP,"6,140","6,140","6,121","5,728","2,885",19,0,0
+"July 25, 2025",2000207232,9.18068E+11,1477832,NA,India,ENT,NA,NA,PMP,123,0,0,0,0,123,0,0
+"July 25, 2025",2000207232,9.18068E+11,1477832,swiggy_oneblck_wa1_gs_08052025_v4,India,ENT,marketing_lite,NA,PMP,"2,517","2,517",0,0,0,"2,517",0,0
+"July 25, 2025",2000207232,9.18068E+11,1477832,swiggy_oneblck_wa1_gs_08052025_v4,India,ENT,marketing_lite,regular,PMP,"4,198","4,198","4,188","3,926","2,178",10,0,0
+"July 25, 2025",2000207232,9.18068E+11,1477832,swiggy_oneblck_wa1_gs_08052025_v4,India,ENT,ML,NA,CBP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548335,cbcc_otp_validation_gs_wa1_28052025,India,ENT,marketing_lite,NA,PMP,495,495,0,0,0,495,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548335,cbcc_otp_validation_gs_wa1_28052025,India,ENT,marketing_lite,regular,PMP,424,424,423,404,294,1,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548335,cbcc_otp_validation_gs_wa1_28052025,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548335,NA,India,ENT,NA,NA,PMP,11,0,0,0,0,11,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548360,cbcc_otp_validation_gs_wa2_28052025,India,ENT,marketing_lite,NA,PMP,464,464,0,0,0,464,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548360,cbcc_otp_validation_gs_wa2_28052025,India,ENT,marketing_lite,regular,PMP,719,719,717,684,431,2,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548360,NA,India,ENT,NA,NA,PMP,11,0,0,0,0,11,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548383,cbcc_otp_validation_gs_wa3_28052025,India,ENT,marketing_lite,NA,PMP,408,408,0,0,0,408,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548383,cbcc_otp_validation_gs_wa3_28052025,India,ENT,marketing_lite,regular,PMP,655,655,655,617,343,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1548383,NA,India,ENT,NA,NA,PMP,8,0,0,0,0,8,0,0
+"July 25, 2025",2000207232,9.18068E+11,1609257,foodwa_precoporateauth1_27jun25,India,ENT,ML,NA,CBP,0,0,0,0,107,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1609281,foodwa_postcoporateauth1_27jun25,India,ENT,ML,NA,CBP,0,0,0,0,44,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1612531,fd_wa_itcmasterchef_29june,India,ENT,ML,NA,CBP,0,0,0,0,106,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1612531,fd_wa_itcmasterchef_29june,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1612535,fd_wa_maiz_29june,India,ENT,ML,NA,CBP,0,0,0,0,66,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1612539,fd_wa_lburger_29june,India,ENT,ML,NA,CBP,0,0,0,0,47,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1612545,fd_wa_chowman_29june,India,ENT,ML,NA,CBP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1629328,day1creww_10jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1629656,sone_blk_10jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,98,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1631152,fsn_focuspods_12jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,60,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1639282,fd_sncwa_npl_14jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1640690,fsnwa_npl_16jul26,India,ENT,marketing_lite,regular,PMP,0,0,0,0,28,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1644492,fsnwa_coffee149_17jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,487,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1647882,fsn_npl_21jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,2,39,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1648643,foodrcs_campusauthentication_19jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,150,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1649457,food_nat_lunchbox_july21,India,ENT,marketing_lite,regular,PMP,0,0,0,0,452,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1656616,fsn_npl_23jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,2,289,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1656916,cbcc_cred01_july23,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1656921,cbcc_cred02_july23,India,ENT,marketing_lite,regular,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1656973,fsn_freecoffee_24jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,3,"7,977",0,0,0
+"July 25, 2025",2000207232,9.18068E+11,1658435,NA,India,ENT,NA,NA,PMP,"7,057",0,0,0,0,"7,057",0,0
+"July 25, 2025",2000207232,9.18068E+11,1658435,nat_goodbowl_250725,India,ENT,marketing_lite,NA,PMP,"48,250","48,250",0,0,0,"48,250",0,0
+"July 25, 2025",2000207232,9.18068E+11,1658435,nat_goodbowl_250725,India,ENT,marketing_lite,regular,PMP,"41,965","41,965","41,835","39,035","15,936",130,0,0
+"July 25, 2025",2000207232,9.18068E+11,1658435,nat_goodbowl_250725,India,ENT,NA,NA,PMP,18,18,0,0,0,0,18,0
+"July 25, 2025",2000207232,9.18068E+11,334308,cbcc_postipa_30062023_1,India,ENT,marketing_lite,NA,PMP,231,231,0,0,0,231,0,0
+"July 25, 2025",2000207232,9.18068E+11,334308,cbcc_postipa_30062023_1,India,ENT,marketing_lite,regular,PMP,238,238,238,226,116,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,334308,cbcc_postipa_30062023_1,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,334308,NA,India,ENT,NA,NA,PMP,8,0,0,0,0,8,0,0
+"July 25, 2025",2000207232,9.18068E+11,345978,NA,India,ENT,NA,NA,PMP,3,0,0,0,0,3,0,0
+"July 25, 2025",2000207232,9.18068E+11,345978,referrals02_17jul,India,ENT,marketing_lite,NA,PMP,106,106,0,0,0,106,0,0
+"July 25, 2025",2000207232,9.18068E+11,345978,referrals02_17jul,India,ENT,marketing_lite,regular,PMP,106,106,105,56,22,1,0,0
+"July 25, 2025",2000207232,9.18068E+11,348899,cbccactivationpending01,India,ENT,marketing_lite,NA,PMP,85,85,0,0,0,85,0,0
+"July 25, 2025",2000207232,9.18068E+11,348899,cbccactivationpending01,India,ENT,marketing_lite,regular,PMP,84,84,84,81,56,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,348899,NA,India,ENT,NA,NA,PMP,2,0,0,0,0,2,0,0
+"July 25, 2025",2000207232,9.18068E+11,351259,cbccswb02_23jul,India,ENT,marketing_lite,NA,PMP,172,172,0,0,0,172,0,0
+"July 25, 2025",2000207232,9.18068E+11,351259,cbccswb02_23jul,India,ENT,marketing_lite,regular,PMP,177,177,177,167,136,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,351259,cbccswb02_23jul,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,351259,NA,India,ENT,NA,NA,PMP,5,0,0,0,0,5,0,0
+"July 25, 2025",2000207232,9.18068E+11,351529,NA,India,ENT,NA,NA,PMP,12,0,0,0,0,12,0,0
+"July 25, 2025",2000207232,9.18068E+11,351529,swiggyissue03,India,ENT,marketing_lite,NA,PMP,314,314,0,0,0,314,0,0
+"July 25, 2025",2000207232,9.18068E+11,351529,swiggyissue03,India,ENT,marketing_lite,regular,PMP,301,301,297,283,224,4,0,0
+"July 25, 2025",2000207232,9.18068E+11,351529,swiggyissue03,India,ENT,ML,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,351529,swiggyissue03,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,351529,swiggyissue03,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000207232,9.18068E+11,353372,hdfc03_row16,India,ENT,marketing_lite,NA,PMP,486,486,0,0,0,486,0,0
+"July 25, 2025",2000207232,9.18068E+11,353372,hdfc03_row16,India,ENT,marketing_lite,regular,PMP,509,509,509,477,352,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,353372,hdfc03_row16,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,353372,hdfc03_row16,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000207232,9.18068E+11,353372,NA,India,ENT,NA,NA,PMP,22,0,0,0,0,22,0,0
+"July 25, 2025",2000207232,9.18068E+11,355662,hdfc07_row51,India,ENT,marketing_lite,NA,PMP,385,385,0,0,0,385,0,0
+"July 25, 2025",2000207232,9.18068E+11,355662,hdfc07_row51,India,ENT,marketing_lite,regular,PMP,359,359,356,339,281,3,0,0
+"July 25, 2025",2000207232,9.18068E+11,355662,hdfc07_row51,India,ENT,ML,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,355662,NA,India,ENT,NA,NA,PMP,9,0,0,0,0,9,0,0
+"July 25, 2025",2000207232,9.18068E+11,463175,cbccapprst30oct,India,ENT,marketing_lite,NA,PMP,"1,393","1,393",0,0,0,"1,393",0,0
+"July 25, 2025",2000207232,9.18068E+11,463175,cbccapprst30oct,India,ENT,marketing_lite,regular,PMP,"1,988","1,988","1,984","1,922","1,332",4,0,0
+"July 25, 2025",2000207232,9.18068E+11,463175,cbccapprst30oct,India,ENT,ML,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,463175,NA,India,ENT,NA,NA,PMP,26,0,0,0,0,26,0,0
+"July 25, 2025",2000207232,9.18068E+11,464078,cbccapp31oct,India,ENT,marketing_lite,NA,PMP,"4,667","4,667",0,0,0,"4,667",0,0
+"July 25, 2025",2000207232,9.18068E+11,464078,cbccapp31oct,India,ENT,marketing_lite,regular,PMP,"9,009","9,009","8,980","8,621","5,333",29,0,0
+"July 25, 2025",2000207232,9.18068E+11,464078,cbccapp31oct,India,ENT,ML,NA,CBP,0,0,0,0,32,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,464078,NA,India,ENT,NA,NA,PMP,143,0,0,0,0,143,0,0
+"July 25, 2025",2000207232,9.18068E+11,488603,NA,India,ENT,NA,NA,PMP,"2,309",0,0,0,0,"2,309",0,0
+"July 25, 2025",2000207232,9.18068E+11,488603,wasurveygeneric27nov,India,ENT,Utility (billable),NA,PMP,"1,791","1,791",0,0,0,"1,791",0,0
+"July 25, 2025",2000207232,9.18068E+11,488603,wasurveygeneric27nov,India,ENT,Utility (billable),regular,PMP,"61,677","61,677","61,571","56,501","22,484",106,0,0
+"July 25, 2025",2000207232,9.18068E+11,488603,wasurveygeneric27nov,India,ENT,Utility (non-billable),free_customer_service,PMP,5,5,5,5,2,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,488603,wasurveygeneric27nov,Japan,ENT,Utility (billable),NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000207232,9.18068E+11,488603,wasurveygeneric27nov,New Zealand,ENT,Utility (billable),NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000207232,9.18068E+11,488603,wasurveygeneric27nov,Sao Tome and Principe,ENT,Utility (billable),NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000207232,9.18068E+11,567098,cbccapplication_restart_nudge6_05feb,India,ENT,marketing_lite,NA,PMP,"2,145","2,145",0,0,0,"2,145",0,0
+"July 25, 2025",2000207232,9.18068E+11,567098,cbccapplication_restart_nudge6_05feb,India,ENT,marketing_lite,regular,PMP,"2,401","2,401","2,396","2,284","1,442",5,0,0
+"July 25, 2025",2000207232,9.18068E+11,567098,cbccapplication_restart_nudge6_05feb,India,ENT,ML,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,567098,cbccapplication_restart_nudge6_05feb,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,567098,cbccapplication_restart_nudge6_05feb,India,ENT,NA,NA,PMP,0,0,1,1,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,567098,NA,India,ENT,NA,NA,PMP,38,0,0,0,0,38,0,0
+"July 25, 2025",2000207232,9.18068E+11,567099,cbccapplication_restart_nudge9_05feb,India,ENT,marketing_lite,NA,PMP,"1,424","1,424",0,0,0,"1,424",0,0
+"July 25, 2025",2000207232,9.18068E+11,567099,cbccapplication_restart_nudge9_05feb,India,ENT,marketing_lite,regular,PMP,"2,027","2,027","2,023","1,910","1,204",4,0,0
+"July 25, 2025",2000207232,9.18068E+11,567099,cbccapplication_restart_nudge9_05feb,India,ENT,ML,NA,CBP,0,0,0,0,20,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,567099,cbccapplication_restart_nudge9_05feb,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000207232,9.18068E+11,567099,NA,India,ENT,NA,NA,PMP,25,0,0,0,0,25,0,0
+"July 25, 2025",2000207232,9.18068E+11,567102,cbccdiscovery02_05feb,India,ENT,marketing_lite,regular,PMP,0,0,0,0,469,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,567102,cbccdiscovery02_05feb,India,ENT,ML,NA,CBP,0,0,0,0,29,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,567102,cbccdiscovery02_05feb,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,670928,cbcc_fooddeliver_ru_12042024,India,ENT,marketing_lite,NA,PMP,27,27,0,0,0,27,0,0
+"July 25, 2025",2000207232,9.18068E+11,670928,cbcc_fooddeliver_ru_12042024,India,ENT,marketing_lite,regular,PMP,17,17,17,15,7,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,7355604,food_om_wa_survey_omnath_23dec,India,ENT,Utility (billable),NA,PMP,10,10,0,0,0,10,0,0
+"July 25, 2025",2000207232,9.18068E+11,7355604,food_om_wa_survey_omnath_23dec,India,ENT,Utility (billable),regular,PMP,367,367,366,343,915,1,0,0
+"July 25, 2025",2000207232,9.18068E+11,7355604,NA,India,ENT,NA,NA,PMP,9,0,0,0,0,9,0,0
+"July 25, 2025",2000207232,9.18068E+11,7779076,NA,India,ENT,NA,NA,PMP,"1,120",0,0,0,0,"1,120",0,0
+"July 25, 2025",2000207232,9.18068E+11,7779076,survey_app_uninstall_16may_01,India,ENT,marketing_lite,NA,PMP,"9,235","9,235",0,0,0,"9,235",0,0
+"July 25, 2025",2000207232,9.18068E+11,7779076,survey_app_uninstall_16may_01,India,ENT,marketing_lite,regular,PMP,"17,032","17,032","16,975","15,730","8,169",57,0,0
+"July 25, 2025",2000207232,9.18068E+11,7779076,survey_app_uninstall_16may_01,India,ENT,UC,NA,CBP,0,0,0,0,144,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,7779076,survey_app_uninstall_16may_01,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,7779076,survey_app_uninstall_16may_01,India,ENT,Utility (billable),regular,PMP,0,0,0,2,"2,616",0,0,0
+"July 25, 2025",2000207232,9.18068E+11,7779076,survey_app_uninstall_16may_01,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,7879764,cbcc_of_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,827080,cbcc_application_restart_30072024,India,ENT,marketing_lite,NA,PMP,"1,844","1,844",0,0,0,"1,844",0,0
+"July 25, 2025",2000207232,9.18068E+11,827080,cbcc_application_restart_30072024,India,ENT,marketing_lite,regular,PMP,"2,337","2,337","2,335","2,242","1,408",2,0,0
+"July 25, 2025",2000207232,9.18068E+11,827080,cbcc_application_restart_30072024,India,ENT,ML,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,827080,NA,India,ENT,NA,NA,PMP,48,0,0,0,0,48,0,0
+"July 25, 2025",2000207232,9.18068E+11,828559,cbcc_discovery_whatsapp_31072024,India,ENT,marketing_lite,regular,PMP,0,0,0,0,512,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,828559,cbcc_discovery_whatsapp_31072024,India,ENT,ML,NA,CBP,0,0,0,0,33,0,0,0
+"July 25, 2025",2000207232,9.18068E+11,828559,cbcc_discovery_whatsapp_31072024,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1330942,tapes_week_launch,India,ENT,ML,NA,CBP,0,0,0,1,782,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1330942,tapes_week_launch,India,ENT,ML,regular,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1330942,tapes_week_launch,India,ENT,ML_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1429384,ca_incred_updated,India,ENT,ML,NA,CBP,0,0,0,0,111,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1429384,ca_incred_updated,India,ENT,ML_PF,NA,CBP,0,0,0,0,23,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1598197,non_transacting_discounting,India,ENT,Utility (billable),regular,PMP,0,0,0,1,898,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1598197,non_transacting_discounting,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1598212,non_transacting_ad,India,ENT,Utility (billable),regular,PMP,0,0,0,6,"1,905",0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1598212,non_transacting_ad,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1598221,non_transacting_availability,India,ENT,Utility (billable),regular,PMP,0,0,0,7,956,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1598221,non_transacting_availability,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1598835,smartlnks_r2c_w3_r2_m1,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1606509,pos_iframe_ads,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1606509,pos_iframe_ads,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1607275,high_protein_nonpos,India,ENT,ML,NA,CBP,0,0,0,0,386,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1607275,high_protein_nonpos,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1607275,high_protein_nonpos,India,ENT,ML_PF,NA,CBP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1609120,swiggy_assure_eoi,India,ENT,ML,NA,CBP,0,0,0,0,19,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1609120,swiggy_assure_eoi,India,ENT,ML_PF,NA,CBP,0,0,0,0,13,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1610963,smartlinks_r2c_w4_r1_m1,India,ENT,marketing_lite,regular,PMP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1610963,smartlinks_r2c_w4_r1_m1,India,ENT,ML_PF,regular,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1612199,swiggy_assure_sugar_weekend,India,ENT,marketing_lite,NA,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1612199,swiggy_assure_sugar_weekend,India,ENT,marketing_lite,regular,PMP,0,0,0,0,69,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1612199,swiggy_assure_sugar_weekend,India,ENT,ML,NA,CBP,0,0,0,0,30,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1612199,swiggy_assure_sugar_weekend,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1613244,pos_iframe_adoption_discounts,India,ENT,UC,NA,CBP,0,0,0,0,206,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1613244,pos_iframe_adoption_discounts,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1613244,pos_iframe_adoption_discounts,India,ENT,UC_PF,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1614332,smartlinks_r2c_w4_r2_m1,India,ENT,UC_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1614332,smartlinks_r2c_w4_r2_m1,India,ENT,Utility (billable),regular,PMP,0,0,0,0,78,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1616725,go_do_good_plastic_free_july,India,ENT,marketing_lite,regular,PMP,0,0,0,1,900,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1624886,brandverse_awareness_campaign,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"1,491",0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1626901,data_dashboard_m2_trends_graphs,India,ENT,Utility (billable),regular,PMP,0,0,0,14,"1,574",0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1626901,data_dashboard_m2_trends_graphs,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1626907,am_data_dashboard_trends_graphs,India,ENT,marketing_lite,regular,PMP,0,0,0,3,"1,095",0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1629920,business_dashboard_m1_hindi,India,ENT,Utility (billable),regular,PMP,0,0,0,31,"4,607",0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1629920,business_dashboard_m1_hindi,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1631515,pos_iframe_complaints,India,ENT,marketing_lite,regular,PMP,0,0,0,1,169,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1640785,packaging_website_prelaunch,India,ENT,marketing,regular,PMP,0,0,0,0,29,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1641398,assure_launch_300_cashboack_offer,India,ENT,marketing_lite,regular,PMP,0,0,0,0,374,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1641657,packaging_website_launch,India,ENT,marketing_lite,regular,PMP,0,0,0,0,102,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1649369,brandverse_july_offer_creative,India,ENT,marketing_lite,regular,PMP,0,0,0,0,61,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1649376,pos_iframe_adop_manage_outlet,India,ENT,Utility (billable),regular,PMP,0,0,0,0,824,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1650715,brandverse_success_story_1,India,ENT,marketing_lite,regular,PMP,0,0,0,0,360,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1657978,rx_services_photoshoot,India,ENT,Utility (billable),regular,PMP,0,0,0,11,"17,136",0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1657978,rx_services_photoshoot,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,88,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1658008,assure_small_pack_bulk_price,India,ENT,marketing_lite,regular,PMP,0,0,0,0,418,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,1664566,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000211520,9.16367E+11,1664566,rx_services_registration_webinar_creative,India,ENT,marketing_lite,NA,PMP,"1,44,620","1,44,620",0,0,0,"1,44,620",0,0
+"July 25, 2025",2000211520,9.16367E+11,1664566,rx_services_registration_webinar_creative,India,ENT,marketing_lite,regular,PMP,"1,06,139","1,06,139","1,05,818","94,813","34,771",320,0,0
+"July 25, 2025",2000211520,9.16367E+11,1664566,rx_services_registration_webinar_creative,India,ENT,NA,NA,PMP,3,3,0,0,0,0,3,0
+"July 25, 2025",2000211520,9.16367E+11,597311,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000211520,9.16367E+11,597311,nps_round1,India,ENT,marketing,NA,PMP,"46,970","46,970",0,0,0,"46,970",0,0
+"July 25, 2025",2000211520,9.16367E+11,597311,nps_round1,India,ENT,marketing,regular,PMP,"85,192","85,192","84,970","74,302","30,285",222,0,0
+"July 25, 2025",2000211520,9.16367E+11,597311,nps_round1,India,ENT,Utility (billable),NA,PMP,"19,668","19,668",0,0,0,"19,668",0,0
+"July 25, 2025",2000211520,9.16367E+11,597311,nps_round1,India,ENT,Utility (billable),regular,PMP,"83,925","83,925","83,747","75,530","32,588",177,0,0
+"July 25, 2025",2000211520,9.16367E+11,597311,nps_round1,India,ENT,Utility (non-billable),free_customer_service,PMP,75,75,75,75,41,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,6904708,pg_implementation_charges_jan24,India,ENT,marketing_lite,regular,PMP,0,0,0,0,336,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7038212,nt_gross_commission,India,ENT,Utility (billable),regular,PMP,0,0,0,0,181,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7541706,capital_assist_regular_updated,India,ENT,ML,NA,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7797189,am_close_loop_feedback_survey,India,ENT,NA,NA,PMP,0,0,1,1,1,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7797189,am_close_loop_feedback_survey,India,ENT,UC,NA,CBP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7797189,am_close_loop_feedback_survey,India,ENT,Utility (billable),regular,PMP,0,0,0,0,188,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7814423,smartlinks_r2_june_week1_round2_message2,India,ENT,marketing_lite,regular,PMP,0,0,0,0,38,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7814423,smartlinks_r2_june_week1_round2_message2,India,ENT,ML_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7852058,assure_downlaoded_but_no_order,India,ENT,UC,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7852058,assure_downlaoded_but_no_order,India,ENT,UC_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7852058,assure_downlaoded_but_no_order,India,ENT,Utility (billable),regular,PMP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7858197,brandverse_biriyani_day,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7858197,brandverse_biriyani_day,India,ENT,Utility (billable),regular,PMP,0,0,0,0,21,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7858374,1_rupee_discount_campaign,India,ENT,marketing_lite,regular,PMP,0,0,0,0,39,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7891514,brandverse_july_offer,India,ENT,marketing_lite,regular,PMP,0,0,0,0,24,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7897450,luxury_kitchens_onboarding,India,ENT,marketing_lite,regular,PMP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7897498,z_slot_extension_breakfast,India,ENT,marketing_lite,regular,PMP,0,0,0,0,27,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7897504,z_slot_extension_late_night,India,ENT,Utility (billable),regular,PMP,0,0,0,0,25,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7905606,rx_services_webinar_registration,India,ENT,Utility (billable),regular,PMP,0,0,0,5,"10,851",0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7905606,rx_services_webinar_registration,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,7912017,nv_gv_trailblazer,India,ENT,marketing_lite,regular,PMP,0,0,0,0,103,0,0,0
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Afghanistan,ENT,NA,NA,PMP,1,0,0,0,0,1,0,1
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Belgium,ENT,NA,NA,PMP,1,0,0,0,0,1,0,1
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Chile,ENT,NA,NA,PMP,2,0,0,0,0,2,0,2
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,China,ENT,NA,NA,PMP,4,0,0,0,0,4,0,4
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Denmark,ENT,NA,NA,PMP,1,0,0,0,0,1,0,1
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,India,ENT,NA,NA,PMP,18,0,0,0,0,18,0,18
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Kyrgyzstan,ENT,NA,NA,PMP,2,0,0,0,0,2,0,2
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Russia,ENT,NA,NA,PMP,3,0,0,0,0,3,0,3
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,South Korea,ENT,NA,NA,PMP,2,0,0,0,0,2,0,2
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Suriname,ENT,NA,NA,PMP,2,0,0,0,0,2,0,2
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Switzerland,ENT,NA,NA,PMP,1,0,0,0,0,1,0,1
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Test Country,ENT,NA,NA,PMP,3,0,0,0,0,3,0,3
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,Thailand,ENT,NA,NA,PMP,1,0,0,0,0,1,0,1
+"July 25, 2025",2000211520,9.16367E+11,NA,NA,United States,ENT,NA,NA,PMP,3,0,0,0,0,3,0,3
+"July 25, 2025",2000212232,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,"1,246",0,0,0,0,"1,246",0,"1,246"
+"July 25, 2025",2000212232,9.18068E+11,6759035,whatsapp_otp_munch,India,ENT,UC,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6759035,whatsapp_otp_munch,India,ENT,UC_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6759035,whatsapp_otp_munch,India,ENT,Utility (billable),NA,PMP,8,8,0,0,0,8,0,0
+"July 25, 2025",2000212232,9.18068E+11,6759035,whatsapp_otp_munch,India,ENT,Utility (billable),regular,PMP,104,104,104,101,84,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6810500,ob_feedback_form,India,ENT,UC,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6810500,ob_feedback_form,India,ENT,Utility (billable),NA,PMP,30,30,0,0,0,30,0,0
+"July 25, 2025",2000212232,9.18068E+11,6810500,ob_feedback_form,India,ENT,Utility (billable),regular,PMP,214,214,214,212,251,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6810500,ob_feedback_form,India,ENT,Utility (non-billable),free_customer_service,PMP,5,5,5,5,5,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6926417,b2b_form_submitted,India,ENT,Utility (billable),NA,PMP,32,32,0,0,0,32,0,0
+"July 25, 2025",2000212232,9.18068E+11,6926417,b2b_form_submitted,India,ENT,Utility (billable),regular,PMP,502,502,501,496,416,1,0,0
+"July 25, 2025",2000212232,9.18068E+11,6926417,b2b_form_submitted,India,ENT,Utility (non-billable),free_customer_service,PMP,2,2,2,2,1,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6926424,b2b_vm_approved,India,ENT,UC_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,6926424,b2b_vm_approved,India,ENT,Utility (billable),NA,PMP,38,38,0,0,0,38,0,0
+"July 25, 2025",2000212232,9.18068E+11,6926424,b2b_vm_approved,India,ENT,Utility (billable),regular,PMP,458,458,457,451,346,1,0,0
+"July 25, 2025",2000212232,9.18068E+11,6926424,b2b_vm_approved,India,ENT,Utility (non-billable),free_customer_service,PMP,17,17,17,17,15,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,7089478,restaurant_live_09july2024,India,ENT,marketing_lite,NA,PMP,78,78,0,0,0,78,0,0
+"July 25, 2025",2000212232,9.18068E+11,7089478,restaurant_live_09july2024,India,ENT,marketing_lite,regular,PMP,107,107,107,107,128,0,0,0
+"July 25, 2025",2000212232,9.18068E+11,7089478,restaurant_live_09july2024,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,"35,904",0,0,0,0,"35,904",0,"35,904"
+"July 25, 2025",2000214229,9.18068E+11,6586209,comm_itemooswhatsapp_v1,India,ENT,UC,NA,CBP,0,0,0,0,62,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6586209,comm_itemooswhatsapp_v1,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6586209,comm_itemooswhatsapp_v1,India,ENT,UC_PF,NA,CBP,0,0,0,0,24,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6586209,comm_itemooswhatsapp_v1,India,ENT,UC_PF,regular,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6586209,comm_itemooswhatsapp_v1,India,ENT,Utility (billable),NA,PMP,464,464,0,0,0,464,0,0
+"July 25, 2025",2000214229,9.18068E+11,6586209,comm_itemooswhatsapp_v1,India,ENT,Utility (billable),regular,PMP,"5,343","5,343","5,333","4,975","3,529",11,0,0
+"July 25, 2025",2000214229,9.18068E+11,6586209,comm_itemooswhatsapp_v1,India,ENT,Utility (non-billable),free_customer_service,PMP,24,24,24,24,17,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6586209,NA,India,ENT,NA,NA,PMP,64,0,0,0,0,64,0,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,NA,India,ENT,NA,NA,PMP,108,0,0,0,0,108,0,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,nonpolling_rx_whatsapp_template_v1_1,India,ENT,NA,NA,PMP,135,135,0,0,0,0,135,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,nonpolling_rx_whatsapp_template_v1_1,India,ENT,UC,NA,CBP,0,0,0,0,79,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,nonpolling_rx_whatsapp_template_v1_1,India,ENT,UC_PF,NA,CBP,0,0,0,0,68,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,nonpolling_rx_whatsapp_template_v1_1,India,ENT,UC_PF,regular,CBP,0,0,0,0,22,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,nonpolling_rx_whatsapp_template_v1_1,India,ENT,Utility (billable),NA,PMP,"1,330","1,387",0,0,1,"1,396",0,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,nonpolling_rx_whatsapp_template_v1_1,India,ENT,Utility (billable),regular,PMP,"11,445","11,837","11,889","10,470","6,939",36,0,0
+"July 25, 2025",2000214229,9.18068E+11,6632746,nonpolling_rx_whatsapp_template_v1_1,India,ENT,Utility (non-billable),free_customer_service,PMP,63,64,64,63,41,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6643856,low_volume_rx_whatsapp_template_v1,India,ENT,UC,NA,CBP,0,0,0,0,25,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6643856,low_volume_rx_whatsapp_template_v1,India,ENT,UC_PF,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6643856,low_volume_rx_whatsapp_template_v1,India,ENT,UC_PF,regular,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6643856,low_volume_rx_whatsapp_template_v1,India,ENT,Utility (billable),NA,PMP,321,321,0,0,2,321,0,0
+"July 25, 2025",2000214229,9.18068E+11,6643856,low_volume_rx_whatsapp_template_v1,India,ENT,Utility (billable),regular,PMP,"2,694","2,694","2,689","2,502","1,709",5,0,0
+"July 25, 2025",2000214229,9.18068E+11,6643856,low_volume_rx_whatsapp_template_v1,India,ENT,Utility (non-billable),free_customer_service,PMP,5,5,5,5,0,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6643856,NA,India,ENT,NA,NA,PMP,36,0,0,0,0,36,0,0
+"July 25, 2025",2000214229,9.18068E+11,6725230,comm_ssa_whatsapp_ads_perf_v1,India,ENT,Utility (billable),regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6841664,campaign_expired,India,ENT,marketing_lite,NA,PMP,940,940,0,0,0,940,0,0
+"July 25, 2025",2000214229,9.18068E+11,6841664,campaign_expired,India,ENT,marketing_lite,regular,PMP,946,946,940,909,736,6,0,0
+"July 25, 2025",2000214229,9.18068E+11,6841664,campaign_expired,India,ENT,ML,NA,CBP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6841664,NA,India,ENT,NA,NA,PMP,26,0,0,0,0,26,0,0
+"July 25, 2025",2000214229,9.18068E+11,6842663,NA,India,ENT,NA,NA,PMP,11,0,0,0,0,11,0,0
+"July 25, 2025",2000214229,9.18068E+11,6842663,new_campaign_created,India,ENT,UC,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6842663,new_campaign_created,India,ENT,Utility (billable),NA,PMP,14,14,0,0,0,14,0,0
+"July 25, 2025",2000214229,9.18068E+11,6842663,new_campaign_created,India,ENT,Utility (billable),regular,PMP,528,528,526,507,373,2,0,0
+"July 25, 2025",2000214229,9.18068E+11,6842663,new_campaign_created,India,ENT,Utility (non-billable),free_customer_service,PMP,1,1,1,1,2,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845413,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845413,new_rx_ratings,India,ENT,marketing_lite,NA,PMP,355,355,0,0,0,355,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845413,new_rx_ratings,India,ENT,marketing_lite,regular,PMP,405,405,405,397,357,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845413,new_rx_ratings,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845414,NA,India,ENT,NA,NA,PMP,16,0,0,0,0,16,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845414,new_rx_discounts,India,ENT,marketing_lite,NA,PMP,404,404,0,0,0,404,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845414,new_rx_discounts,India,ENT,marketing_lite,regular,PMP,299,299,298,293,228,1,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845414,new_rx_discounts,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6845414,new_rx_discounts,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000214229,9.18068E+11,6871148,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871148,new_non_pos_rx_menu_3,India,ENT,marketing_lite,NA,PMP,261,261,0,0,0,261,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871148,new_non_pos_rx_menu_3,India,ENT,marketing_lite,regular,PMP,421,421,419,417,372,2,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871148,new_non_pos_rx_menu_3,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871151,new_pos_rx_menu_2,India,ENT,marketing_lite,NA,PMP,8,8,0,0,0,8,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871151,new_pos_rx_menu_2,India,ENT,marketing_lite,regular,PMP,3,3,3,3,4,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871152,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871152,new_rx_ads_2,India,ENT,marketing_lite,NA,PMP,308,308,0,0,0,308,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871152,new_rx_ads_2,India,ENT,marketing_lite,regular,PMP,224,224,224,221,164,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871152,new_rx_ads_2,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871415,campaign_auto_renewed_v2,India,ENT,UC,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871415,campaign_auto_renewed_v2,India,ENT,UC_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871415,campaign_auto_renewed_v2,India,ENT,Utility (billable),NA,PMP,69,69,0,0,0,69,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871415,campaign_auto_renewed_v2,India,ENT,Utility (billable),regular,PMP,"1,198","1,198","1,195","1,132",739,3,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871415,campaign_auto_renewed_v2,India,ENT,Utility (non-billable),free_customer_service,PMP,3,3,3,3,3,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6871415,NA,India,ENT,NA,NA,PMP,16,0,0,0,0,16,0,0
+"July 25, 2025",2000214229,9.18068E+11,6877257,campaign_auto_renewal_failure_v2,India,ENT,UC_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6877257,campaign_auto_renewal_failure_v2,India,ENT,Utility (billable),NA,PMP,3,3,0,0,0,3,0,0
+"July 25, 2025",2000214229,9.18068E+11,6877257,campaign_auto_renewal_failure_v2,India,ENT,Utility (billable),regular,PMP,228,228,227,183,117,1,0,0
+"July 25, 2025",2000214229,9.18068E+11,6877257,NA,India,ENT,NA,NA,PMP,3,0,0,0,0,3,0,0
+"July 25, 2025",2000214229,9.18068E+11,6956858,ccrp_new_customer_complaint_template,India,ENT,UC,NA,CBP,0,0,0,0,20,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6956858,ccrp_new_customer_complaint_template,India,ENT,UC_PF,NA,CBP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6956858,ccrp_new_customer_complaint_template,India,ENT,Utility (billable),NA,PMP,550,550,0,0,0,550,0,0
+"July 25, 2025",2000214229,9.18068E+11,6956858,ccrp_new_customer_complaint_template,India,ENT,Utility (billable),regular,PMP,"3,611","3,612","3,602","3,262","1,813",10,0,0
+"July 25, 2025",2000214229,9.18068E+11,6956858,ccrp_new_customer_complaint_template,India,ENT,Utility (non-billable),free_customer_service,PMP,21,21,21,21,15,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,6956858,NA,India,ENT,NA,NA,PMP,114,0,0,0,0,114,0,0
+"July 25, 2025",2000214229,9.18068E+11,7134055,NA,India,ENT,NA,NA,PMP,393,0,0,0,0,393,0,0
+"July 25, 2025",2000214229,9.18068E+11,7134055,self_serve_ads_flash_sales_template,India,ENT,marketing_lite,NA,PMP,"12,555","12,555",0,0,0,"12,555",0,0
+"July 25, 2025",2000214229,9.18068E+11,7134055,self_serve_ads_flash_sales_template,India,ENT,marketing_lite,regular,PMP,"12,387","12,387","12,338","11,752","5,959",49,0,0
+"July 25, 2025",2000214229,9.18068E+11,7134055,self_serve_ads_flash_sales_template,India,ENT,ML,NA,CBP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,7134055,self_serve_ads_flash_sales_template,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000214229,9.18068E+11,7134059,NA,India,ENT,NA,NA,PMP,13,0,0,0,0,13,0,0
+"July 25, 2025",2000214229,9.18068E+11,7134059,self_serve_ads_free_trials_template,India,ENT,marketing_lite,NA,PMP,524,524,0,0,0,524,0,0
+"July 25, 2025",2000214229,9.18068E+11,7134059,self_serve_ads_free_trials_template,India,ENT,marketing_lite,regular,PMP,630,630,630,609,303,0,0,0
+"July 25, 2025",2000214229,9.18068E+11,7134059,self_serve_ads_free_trials_template,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,45,0,0,0,0,45,0,45
+"July 25, 2025",2000215410,9.18068E+11,6512612,minis_pending_order_update_template,India,ENT,marketing_lite,NA,PMP,36,36,0,0,0,36,0,0
+"July 25, 2025",2000215410,9.18068E+11,6512612,minis_pending_order_update_template,India,ENT,marketing_lite,regular,PMP,47,47,47,44,38,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671835,self_delivered_in_transit_intracity_order_update_template_v2,India,ENT,Utility (billable),regular,PMP,25,25,25,25,17,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671835,self_delivered_in_transit_intracity_order_update_template_v2,India,ENT,Utility (non-billable),free_customer_service,PMP,2,2,2,2,1,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671836,self_delivered_in_transit_intercity_order_update_template_v2,India,ENT,UC,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671836,self_delivered_in_transit_intercity_order_update_template_v2,India,ENT,UC_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671836,self_delivered_in_transit_intercity_order_update_template_v2,India,ENT,UC_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671836,self_delivered_in_transit_intercity_order_update_template_v2,India,ENT,Utility (billable),NA,PMP,5,5,0,0,0,5,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671836,self_delivered_in_transit_intercity_order_update_template_v2,India,ENT,Utility (billable),regular,PMP,87,87,87,86,101,0,0,0
+"July 25, 2025",2000215410,9.18068E+11,6671836,self_delivered_in_transit_intercity_order_update_template_v2,India,ENT,Utility (non-billable),free_customer_service,PMP,1,1,1,1,2,0,0,0
+"July 25, 2025",2000217534,9.18068E+11,1611688,july_camp_config,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000217534,9.18068E+11,1628344,instawow_jui,India,ENT,marketing_lite,regular,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000217534,9.18068E+11,1647220,price_crash,India,ENT,marketing_lite,regular,PMP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000217534,9.18068E+11,1650703,electronics_sale_jul,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000217534,9.18068E+11,1659103,teej_jul,India,ENT,marketing_lite,regular,PMP,0,0,0,0,62,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,"61,441",0,0,0,0,"61,441",0,"58,933"
+"July 25, 2025",2000218351,9.18068E+11,-1,NA,Romania,ENT,NA,NA,PMP,5,0,0,0,0,5,0,5
+"July 25, 2025",2000218351,9.18068E+11,-1,NA,United States,ENT,NA,NA,PMP,5,0,0,0,0,5,0,5
+"July 25, 2025",2000218351,9.18068E+11,1273540,sno_hiring_hindi,India,ENT,marketing_lite,regular,PMP,0,0,0,0,58,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1273540,sno_hiring_hindi,India,ENT,ML,NA,CBP,0,0,0,0,26,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1273540,sno_hiring_hindi,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1290652,3fp_280225,India,ENT,UC,NA,CBP,0,0,0,0,40,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1290652,3fp_280225,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1290652,3fp_280225,India,ENT,UC_PF,NA,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1290652,3fp_280225,India,ENT,Utility (billable),NA,PMP,699,699,0,0,0,699,0,0
+"July 25, 2025",2000218351,9.18068E+11,1290652,3fp_280225,India,ENT,Utility (billable),regular,PMP,"11,646","11,646","11,641","10,388","6,651",5,0,0
+"July 25, 2025",2000218351,9.18068E+11,1290652,3fp_280225,India,ENT,Utility (non-billable),free_customer_service,PMP,28,28,28,28,18,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1290652,NA,India,ENT,NA,NA,PMP,461,0,0,0,0,461,0,0
+"July 25, 2025",2000218351,9.18068E+11,1361087,tnsoc_210325,India,ENT,marketing_lite,regular,PMP,0,0,0,0,99,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1361087,tnsoc_210325,India,ENT,ML,NA,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1361087,tnsoc_210325,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1385032,soc1_28032025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1385061,soc2_28032025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,21,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1385061,soc2_28032025,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1385061,soc2_28032025,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1389398,snacc_reactivation_01042025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,17,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1509988,sftemplate1,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"2,062",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1509995,sftemplate3,India,ENT,marketing_lite,regular,PMP,0,0,0,5,"4,372",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1509995,sftemplate3,India,ENT,ML,NA,CBP,0,0,0,0,315,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1509995,sftemplate3,India,ENT,ML,regular,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1509995,sftemplate3,India,ENT,ML_PF,NA,CBP,0,0,0,0,581,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1509995,sftemplate3,India,ENT,ML_PF,regular,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510004,sftemplate6,India,ENT,marketing_lite,NA,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510004,sftemplate6,India,ENT,marketing_lite,regular,PMP,0,0,0,0,726,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510004,sftemplate6,India,ENT,ML,NA,CBP,0,0,0,0,666,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510004,sftemplate6,India,ENT,ML,regular,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510004,sftemplate6,India,ENT,ML_PF,NA,CBP,0,0,0,0,343,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510004,sftemplate6,India,ENT,ML_PF,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510034,sftemplate7,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,174",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510034,sftemplate7,India,ENT,ML,NA,CBP,0,0,0,0,150,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510034,sftemplate7,India,ENT,ML_PF,NA,CBP,0,0,0,0,138,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510034,sftemplate7,India,ENT,ML_PF,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510043,sftemplate9,India,ENT,marketing_lite,regular,PMP,0,0,0,52,"37,367",37,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510048,NA,India,ENT,NA,NA,PMP,"5,838",0,0,0,0,"5,838",0,0
+"July 25, 2025",2000218351,9.18068E+11,1510048,sftemplate11,India,ENT,marketing_lite,NA,PMP,"93,561","93,561",0,0,0,"93,561",0,0
+"July 25, 2025",2000218351,9.18068E+11,1510048,sftemplate11,India,ENT,marketing_lite,regular,PMP,"88,963","88,963","88,844","77,507","34,194",119,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510048,sftemplate11,India,ENT,NA,NA,PMP,22,22,1,1,1,0,21,0
+"July 25, 2025",2000218351,9.18068E+11,1510052,NA,India,ENT,NA,NA,PMP,"5,985",0,0,0,0,"5,985",0,0
+"July 25, 2025",2000218351,9.18068E+11,1510052,sftemplate13,India,ENT,marketing_lite,NA,PMP,"1,08,332","1,08,332",0,0,0,"1,08,332",0,0
+"July 25, 2025",2000218351,9.18068E+11,1510052,sftemplate13,India,ENT,marketing_lite,regular,PMP,"97,017","97,017","96,885","87,112","52,702",132,0,0
+"July 25, 2025",2000218351,9.18068E+11,1510052,sftemplate13,India,ENT,NA,NA,PMP,11,11,1,1,1,0,10,0
+"July 25, 2025",2000218351,9.18068E+11,1510056,sftemplate15,India,ENT,marketing_lite,regular,PMP,0,0,0,5,"6,441",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1521147,tiering_xp_performance_19052025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,20,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1541663,dormant_candidate_nu_mg,India,ENT,marketing_lite,NA,PMP,644,644,0,0,0,644,0,0
+"July 25, 2025",2000218351,9.18068E+11,1541663,dormant_candidate_nu_mg,India,ENT,marketing_lite,regular,PMP,"1,404","1,404","1,399","1,239",914,5,0,0
+"July 25, 2025",2000218351,9.18068E+11,1541663,dormant_candidate_nu_mg,India,ENT,ML,NA,CBP,0,0,0,0,14,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1541663,dormant_candidate_nu_mg,India,ENT,ML,regular,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1541663,dormant_candidate_nu_mg,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1541663,NA,India,ENT,NA,NA,PMP,40,0,0,0,0,40,0,0
+"July 25, 2025",2000218351,9.18068E+11,1552356,NA,India,ENT,NA,NA,PMP,"10,616",0,0,0,0,"10,616",0,0
+"July 25, 2025",2000218351,9.18068E+11,1552356,rj_dmg_290525,India,ENT,marketing_lite,NA,PMP,"56,194","56,194",0,0,0,"56,194",0,0
+"July 25, 2025",2000218351,9.18068E+11,1552356,rj_dmg_290525,India,ENT,marketing_lite,regular,PMP,"38,248","38,248","38,170","27,962","10,437",78,0,0
+"July 25, 2025",2000218351,9.18068E+11,1552356,rj_dmg_290525,India,ENT,NA,NA,PMP,23,23,0,0,0,0,23,0
+"July 25, 2025",2000218351,9.18068E+11,1590992,noida_coin_economy_14062025,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1590993,hin_14625,India,ENT,marketing_lite,regular,PMP,0,0,0,0,253,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1592422,coin_economy_noida_cash_credit_16062025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1592431,lucknow_coin_credit_earned,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1592436,lucknow_cash_credit_notearned,India,ENT,marketing_lite,regular,PMP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1593636,adhoc_soc_17062025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1593636,adhoc_soc_17062025,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1599463,tn_leads,India,ENT,UC,NA,CBP,0,0,0,0,32,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1599463,tn_leads,India,ENT,UC,regular,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1599463,tn_leads,India,ENT,Utility (billable),regular,PMP,0,0,0,0,718,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1601904,tiering_xp_delhi_23062025,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1609980,winelectricscooter26062025,India,ENT,UC,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1609980,winelectricscooter26062025,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1609980,winelectricscooter26062025,India,ENT,UC_PF,NA,CBP,0,0,0,0,25,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1609980,winelectricscooter26062025,India,ENT,UC_PF,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1610734,adhoc_central_swiggybounce27june,India,ENT,ML,NA,CBP,0,0,0,0,30,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1610734,adhoc_central_swiggybounce27june,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1610734,adhoc_central_swiggybounce27june,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1610734,adhoc_central_swiggybounce27june,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1612494,adhoc_im_latenight,India,ENT,marketing_lite,regular,PMP,0,0,0,0,127,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1612494,adhoc_im_latenight,India,ENT,ML,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1612494,adhoc_im_latenight,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1618346,dormant_lead_03072025,India,ENT,marketing_lite,regular,PMP,0,0,0,3,423,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619618,doc_verification_pending_04072025,India,ENT,marketing_lite,NA,PMP,"7,415","7,415",0,0,0,"7,415",0,0
+"July 25, 2025",2000218351,9.18068E+11,1619618,doc_verification_pending_04072025,India,ENT,marketing_lite,regular,PMP,"9,106","9,106","9,087","8,731","6,368",19,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619618,doc_verification_pending_04072025,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000218351,9.18068E+11,1619618,NA,India,ENT,NA,NA,PMP,104,0,0,0,0,104,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619636,aadhar_failure_04072025,India,ENT,marketing_lite,NA,PMP,206,206,0,0,0,206,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619636,aadhar_failure_04072025,India,ENT,marketing_lite,regular,PMP,159,159,159,150,120,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619652,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619652,pan_failure_04072025,India,ENT,marketing_lite,NA,PMP,59,59,0,0,0,59,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619652,pan_failure_04072025,India,ENT,marketing_lite,regular,PMP,76,76,76,74,66,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619675,aadhar_verification_pending_04072025,India,ENT,marketing_lite,NA,PMP,89,89,0,0,0,89,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619675,aadhar_verification_pending_04072025,India,ENT,marketing_lite,regular,PMP,89,89,89,86,65,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619675,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619695,pan_verification_pending_new,India,ENT,marketing_lite,NA,PMP,227,227,0,0,0,227,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619695,pan_verification_pending_new,India,ENT,marketing_lite,regular,PMP,252,252,252,244,202,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619708,bank_verification_04072025,India,ENT,marketing_lite,NA,PMP,"8,845","8,845",0,0,0,"8,845",0,0
+"July 25, 2025",2000218351,9.18068E+11,1619708,bank_verification_04072025,India,ENT,marketing_lite,regular,PMP,"9,128","9,128","9,099","8,550","5,833",29,0,0
+"July 25, 2025",2000218351,9.18068E+11,1619708,bank_verification_04072025,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000218351,9.18068E+11,1619708,NA,India,ENT,NA,NA,PMP,196,0,0,0,0,196,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620028,NA,India,ENT,NA,NA,PMP,3,0,0,0,0,3,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620028,reliability_day1_04072025,India,ENT,marketing_lite,NA,PMP,"2,181","2,181",0,0,0,"2,181",0,0
+"July 25, 2025",2000218351,9.18068E+11,1620028,reliability_day1_04072025,India,ENT,marketing_lite,regular,PMP,"2,374","2,374","2,374","2,335","2,160",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620044,NA,India,ENT,NA,NA,PMP,5,0,0,0,0,5,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620044,reliability_day2_04072025,India,ENT,marketing_lite,NA,PMP,"2,469","2,469",0,0,0,"2,469",0,0
+"July 25, 2025",2000218351,9.18068E+11,1620044,reliability_day2_04072025,India,ENT,marketing_lite,regular,PMP,"2,632","2,632","2,629","2,561","2,213",3,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620049,NA,India,ENT,NA,NA,PMP,8,0,0,0,0,8,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620049,reliability_day3_04072025,India,ENT,marketing_lite,NA,PMP,"2,970","2,970",0,0,0,"2,970",0,0
+"July 25, 2025",2000218351,9.18068E+11,1620049,reliability_day3_04072025,India,ENT,marketing_lite,regular,PMP,"2,482","2,482","2,477","2,409","1,885",5,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620057,reliability_day4_04072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,146,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620072,reliability_day5_04072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,174,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620079,reliability_day6_04072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,159,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620083,coinexperiment_noida,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620105,reliability_day7_04072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,136,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1620594,adhoc_instamart_wmg_july04,India,ENT,marketing_lite,regular,PMP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1623855,muharram_kl_05072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1624822,im_new_template_07072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,29,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1630276,NA,India,ENT,NA,NA,PMP,10,0,0,0,0,10,0,0
+"July 25, 2025",2000218351,9.18068E+11,1630276,snacc_reactivation_11072025,India,ENT,marketing_lite,NA,PMP,382,382,0,0,0,382,0,0
+"July 25, 2025",2000218351,9.18068E+11,1630276,snacc_reactivation_11072025,India,ENT,marketing_lite,regular,PMP,279,279,279,259,281,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1638282,adhoc_im_wmg_2slab,India,ENT,marketing_lite,regular,PMP,0,0,0,0,34,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1646275,fss_campaign_post_onboarding_sf_july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,151,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1646278,fss_campaign_post_onboarding_im_july25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,556,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1646281,fss_non_reliable_des_july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,99,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1648719,wa_food,India,ENT,marketing_lite,regular,PMP,0,0,0,0,105,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1648721,jb_fl_hindi_19072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,232,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649248,flatpay_20072025,India,ENT,marketing_lite,NA,PMP,"15,673","15,673",0,0,0,"15,673",0,0
+"July 25, 2025",2000218351,9.18068E+11,1649248,flatpay_20072025,India,ENT,marketing_lite,regular,PMP,"8,015","8,015","8,012","7,330","4,759",3,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649248,flatpay_20072025,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000218351,9.18068E+11,1649248,NA,India,ENT,NA,NA,PMP,"1,186",0,0,0,0,"1,186",0,0
+"July 25, 2025",2000218351,9.18068E+11,1649262,imreativationflatpay20072025,India,ENT,marketing_lite,NA,PMP,"60,729","60,729",0,0,0,"60,729",0,0
+"July 25, 2025",2000218351,9.18068E+11,1649262,imreativationflatpay20072025,India,ENT,marketing_lite,regular,PMP,"35,635","35,635","35,577","31,917","19,634",58,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649262,imreativationflatpay20072025,India,ENT,ML_PF,regular,CBP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649262,imreativationflatpay20072025,India,ENT,NA,NA,PMP,7,7,0,0,0,0,7,0
+"July 25, 2025",2000218351,9.18068E+11,1649262,NA,India,ENT,NA,NA,PMP,"2,242",0,0,0,0,"2,242",0,0
+"July 25, 2025",2000218351,9.18068E+11,1649265,NA,India,ENT,NA,NA,PMP,469,0,0,0,0,469,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649265,snac_fp_20072025,India,ENT,marketing_lite,NA,PMP,"4,927","4,927",0,0,0,"4,927",0,0
+"July 25, 2025",2000218351,9.18068E+11,1649265,snac_fp_20072025,India,ENT,marketing_lite,regular,PMP,"2,845","2,845","2,843","2,212","1,552",2,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649265,snac_fp_20072025,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000218351,9.18068E+11,1649265,snac_fp_20072025,India,ENT,Utility (billable),regular,PMP,0,0,0,0,209,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649268,im_fp_20072025,India,ENT,Utility (billable),regular,PMP,0,0,0,21,"11,333",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1649268,im_fp_20072025,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1650495,im_fp_eng_22072025,India,ENT,marketing_lite,NA,PMP,"1,80,112","1,80,112",0,0,0,"1,80,112",0,0
+"July 25, 2025",2000218351,9.18068E+11,1650495,im_fp_eng_22072025,India,ENT,marketing_lite,regular,PMP,"2,08,580","2,08,580","2,08,249","1,56,725","69,800",334,0,0
+"July 25, 2025",2000218351,9.18068E+11,1650495,im_fp_eng_22072025,India,ENT,NA,NA,PMP,84,84,0,0,0,0,84,0
+"July 25, 2025",2000218351,9.18068E+11,1650495,im_fp_eng_22072025,India,ENT,referral_conversion,free_entry_point,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1650495,NA,India,ENT,NA,NA,PMP,"12,361",0,0,0,0,"12,361",0,0
+"July 25, 2025",2000218351,9.18068E+11,1659205,deposit_cash_pod_24072025,India,ENT,marketing_lite,NA,PMP,7,7,0,0,0,7,0,0
+"July 25, 2025",2000218351,9.18068E+11,1659205,deposit_cash_pod_24072025,India,ENT,marketing_lite,regular,PMP,2,2,2,2,0,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1664348,imrain_new_25072025,India,ENT,marketing_lite,NA,PMP,4,4,0,0,0,4,0,0
+"July 25, 2025",2000218351,9.18068E+11,1664348,imrain_new_25072025,India,ENT,marketing_lite,regular,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,1664908,new_user_1,India,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,1664917,new_join_2,India,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,1664923,new_join_3,India,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,1665084,copy1_hi,India,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,1665088,copy3_hi,India,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,1671219,post_hindi_2,India,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,483378,new_de_1st_order_reliability_new,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,493728,demand_notice_04122023,India,ENT,marketing_lite,regular,PMP,0,0,0,0,254,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,519092,28_dec_surge_p,India,ENT,UC,NA,CBP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,519092,28_dec_surge_p,India,ENT,UC_PF,NA,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,519092,28_dec_surge_p,India,ENT,Utility (billable),NA,PMP,422,422,0,0,0,422,0,0
+"July 25, 2025",2000218351,9.18068E+11,519092,28_dec_surge_p,India,ENT,Utility (billable),regular,PMP,"6,480","6,480","6,472","5,830","6,316",8,0,0
+"July 25, 2025",2000218351,9.18068E+11,519092,28_dec_surge_p,India,ENT,Utility (non-billable),free_customer_service,PMP,33,33,33,32,35,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,519092,NA,India,ENT,NA,NA,PMP,354,0,0,0,0,354,0,0
+"July 25, 2025",2000218351,9.18068E+11,519105,28_dec_surge1_p,India,ENT,UC,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,519105,28_dec_surge1_p,India,ENT,Utility (billable),regular,PMP,0,0,0,1,324,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,587357,dmg_6slab_image,India,ENT,Utility (billable),regular,PMP,0,0,0,0,73,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,587533,flatpay_time_poster,India,ENT,marketing_lite,regular,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,587559,fixedpay_amt_time_img,India,ENT,UC,NA,CBP,0,0,0,0,14,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,587559,fixedpay_amt_time_img,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,587644,dailyincentive_amt_datepeak_img,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,587663,dailyincentive_amt_date_image,India,ENT,marketing_lite,regular,PMP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,667362,control_tower_comms_v1,India,ENT,UC,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,667362,control_tower_comms_v1,India,ENT,UC_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,667362,control_tower_comms_v1,India,ENT,Utility (billable),regular,PMP,0,0,0,0,133,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,667362,control_tower_comms_v1,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6895354,28_dec_surge,India,ENT,UC,NA,CBP,0,0,0,0,45,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6895354,28_dec_surge,India,ENT,UC_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6895354,28_dec_surge,India,ENT,UC_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6895354,28_dec_surge,India,ENT,Utility (billable),NA,PMP,193,193,0,0,0,193,0,0
+"July 25, 2025",2000218351,9.18068E+11,6895354,28_dec_surge,India,ENT,Utility (billable),regular,PMP,"3,883","3,883","3,876","3,584","3,093",6,0,0
+"July 25, 2025",2000218351,9.18068E+11,6895354,28_dec_surge,India,ENT,Utility (non-billable),free_customer_service,PMP,9,9,9,8,6,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6895354,NA,India,ENT,NA,NA,PMP,107,0,0,0,0,107,0,0
+"July 25, 2025",2000218351,9.18068E+11,6923158,irctc_runner_order_updates,India,ENT,Utility (billable),NA,PMP,56,56,0,0,0,56,0,0
+"July 25, 2025",2000218351,9.18068E+11,6923158,irctc_runner_order_updates,India,ENT,Utility (billable),regular,PMP,"5,126","5,126","5,125","5,027","4,771",1,0,0
+"July 25, 2025",2000218351,9.18068E+11,6923158,irctc_runner_order_updates,India,ENT,Utility (non-billable),free_customer_service,PMP,209,209,209,209,209,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6923158,NA,India,ENT,NA,NA,PMP,39,0,0,0,0,39,0,0
+"July 25, 2025",2000218351,9.18068E+11,6938969,dmg_5slab,India,ENT,marketing_lite,regular,PMP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6939002,surge_5slots_utility_text,India,ENT,marketing_lite,regular,PMP,0,0,0,0,234,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6939002,surge_5slots_utility_text,India,ENT,ML,NA,CBP,0,0,0,0,81,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6939002,surge_5slots_utility_text,India,ENT,ML_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6939028,lb_peak,India,ENT,UC,NA,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6939028,lb_peak,India,ENT,Utility (billable),regular,PMP,0,0,0,0,168,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,6939095,flatpay_time,India,ENT,Utility (billable),regular,PMP,0,0,0,1,"1,610",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034668,intervention1,India,ENT,marketing_lite,NA,PMP,776,776,0,0,0,776,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034668,intervention1,India,ENT,marketing_lite,regular,PMP,997,997,995,981,943,2,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034668,intervention1,India,ENT,ML,NA,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034668,intervention1,India,ENT,ML_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034668,intervention1,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000218351,9.18068E+11,7034670,intervention2,India,ENT,marketing_lite,NA,PMP,40,40,0,0,0,40,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034670,intervention2,India,ENT,marketing_lite,regular,PMP,59,59,59,59,49,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034670,intervention2,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034694,intervention5,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7034694,intervention5,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7059346,for_nux_imdd_day1_v1,India,ENT,marketing_lite,regular,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7059346,for_nux_imdd_day1_v1,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7076902,imreliability_journey_21jun,India,ENT,Utility (billable),regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7107582,NA,India,ENT,NA,NA,PMP,382,0,0,0,0,382,0,0
+"July 25, 2025",2000218351,9.18068E+11,7107582,surge1_29jul,India,ENT,marketing_lite,NA,PMP,"2,435","2,435",0,0,0,"2,435",0,0
+"July 25, 2025",2000218351,9.18068E+11,7107582,surge1_29jul,India,ENT,marketing_lite,regular,PMP,"3,387","3,387","3,380","3,146","3,076",7,0,0
+"July 25, 2025",2000218351,9.18068E+11,7107582,surge1_29jul,India,ENT,ML,NA,CBP,0,0,0,0,28,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7107582,surge1_29jul,India,ENT,ML,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7107582,surge1_29jul,India,ENT,ML_PF,NA,CBP,0,0,0,0,33,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7107582,surge1_29jul,India,ENT,ML_PF,regular,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7110915,surge_5slot_aug,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7110915,surge_5slot_aug,India,ENT,ML_PF,regular,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7113449,fp_aug24,India,ENT,marketing_lite,NA,PMP,"4,866","4,866",0,0,1,"4,866",0,0
+"July 25, 2025",2000218351,9.18068E+11,7113449,fp_aug24,India,ENT,marketing_lite,regular,PMP,"10,213","10,213","10,203","9,370","6,803",10,0,0
+"July 25, 2025",2000218351,9.18068E+11,7113449,fp_aug24,India,ENT,ML,NA,CBP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7113449,fp_aug24,India,ENT,ML_PF,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7113449,fp_aug24,India,ENT,ML_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7113449,NA,India,ENT,NA,NA,PMP,787,0,0,0,0,787,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,dailyincentive_aug24,India,ENT,UC,NA,CBP,0,0,0,0,60,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,dailyincentive_aug24,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,dailyincentive_aug24,India,ENT,UC_PF,NA,CBP,0,0,0,0,71,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,dailyincentive_aug24,India,ENT,UC_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,dailyincentive_aug24,India,ENT,Utility (billable),NA,PMP,316,316,0,0,0,316,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,dailyincentive_aug24,India,ENT,Utility (billable),regular,PMP,"4,100","4,100","4,097","3,388","2,958",3,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,dailyincentive_aug24,India,ENT,Utility (non-billable),free_customer_service,PMP,9,9,9,9,7,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7114939,NA,India,ENT,NA,NA,PMP,130,0,0,0,0,130,0,0
+"July 25, 2025",2000218351,9.18068E+11,7119287,lb_time_aug24,India,ENT,UC,NA,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7119287,lb_time_aug24,India,ENT,Utility (billable),regular,PMP,0,0,0,0,545,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7123743,2slotsurgenew,India,ENT,marketing_lite,NA,PMP,549,549,0,0,0,549,0,0
+"July 25, 2025",2000218351,9.18068E+11,7123743,2slotsurgenew,India,ENT,marketing_lite,regular,PMP,"1,736","1,736","1,734","1,634","2,020",2,0,0
+"July 25, 2025",2000218351,9.18068E+11,7123743,2slotsurgenew,India,ENT,ML,NA,CBP,0,0,0,0,21,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7123743,2slotsurgenew,India,ENT,ML_PF,NA,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7123743,NA,India,ENT,NA,NA,PMP,55,0,0,0,0,55,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,NA,India,ENT,NA,NA,PMP,6,0,0,0,0,6,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,soc_idcreated,India,ENT,UC,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,soc_idcreated,India,ENT,UC,regular,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,soc_idcreated,India,ENT,UC_PF,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,soc_idcreated,India,ENT,UC_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,soc_idcreated,India,ENT,Utility (billable),NA,PMP,125,125,0,0,0,125,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,soc_idcreated,India,ENT,Utility (billable),regular,PMP,"2,644","2,644","2,641","2,458","2,374",3,0,0
+"July 25, 2025",2000218351,9.18068E+11,7138484,soc_idcreated,India,ENT,Utility (non-billable),free_customer_service,PMP,27,27,27,27,22,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7174841,ct_general,India,ENT,UC_PF,NA,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7174841,ct_general,India,ENT,Utility (billable),regular,PMP,0,0,0,1,164,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7174841,ct_general,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175222,lb_sep2024,India,ENT,UC,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175222,lb_sep2024,India,ENT,Utility (billable),regular,PMP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175690,NA,India,ENT,NA,NA,PMP,298,0,0,0,0,298,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175690,s3slot_new_sep24,India,ENT,UC,NA,CBP,0,0,0,0,56,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175690,s3slot_new_sep24,India,ENT,UC,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175690,s3slot_new_sep24,India,ENT,UC_PF,NA,CBP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175690,s3slot_new_sep24,India,ENT,Utility (billable),NA,PMP,682,682,0,0,0,682,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175690,s3slot_new_sep24,India,ENT,Utility (billable),regular,PMP,"5,408","5,408","5,402","4,167","2,382",6,0,0
+"July 25, 2025",2000218351,9.18068E+11,7175690,s3slot_new_sep24,India,ENT,Utility (non-billable),free_customer_service,PMP,21,21,21,21,10,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7189297,dp_otp_traffic_v1,India,ENT,AC,NA,CBP,0,0,0,0,37,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7189297,dp_otp_traffic_v1,India,ENT,AC,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7189297,dp_otp_traffic_v1,India,ENT,AC_PF,NA,CBP,0,0,0,0,13,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7189297,dp_otp_traffic_v1,India,ENT,authentication,NA,PMP,"1,399","1,399",0,0,0,"1,399",0,0
+"July 25, 2025",2000218351,9.18068E+11,7189297,dp_otp_traffic_v1,India,ENT,authentication,regular,PMP,"5,151","5,151","5,141","4,455","3,566",10,0,0
+"July 25, 2025",2000218351,9.18068E+11,7189297,NA,India,ENT,NA,NA,PMP,122,0,0,0,0,122,0,0
+"July 25, 2025",2000218351,9.18068E+11,7216595,registrationforreliability,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7237877,rel_hin_0911,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7237877,rel_hin_0911,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7237877,rel_hin_0911,India,ENT,ML_PF,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7264569,adhocnewcity_zone_soc,India,ENT,marketing_lite,regular,PMP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7264569,adhocnewcity_zone_soc,India,ENT,ML,NA,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7264569,adhocnewcity_zone_soc,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7281074,adhoc_ev_automatedmessage_10122024,India,ENT,marketing_lite,regular,PMP,0,0,0,0,102,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7281074,adhoc_ev_automatedmessage_10122024,India,ENT,ML,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7281074,adhoc_ev_automatedmessage_10122024,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7281085,adhoc_ev_manualmessagewithpoc_11122024,India,ENT,marketing_lite,regular,PMP,0,0,0,0,73,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7281085,adhoc_ev_manualmessagewithpoc_11122024,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7281085,adhoc_ev_manualmessagewithpoc_11122024,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7281096,adhoc_ev,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7347554,adhoc_sno_telugu_21122024,India,ENT,marketing_lite,NA,PMP,"1,324","1,324",0,0,0,"1,324",0,0
+"July 25, 2025",2000218351,9.18068E+11,7347554,adhoc_sno_telugu_21122024,India,ENT,marketing_lite,regular,PMP,"1,991","1,991","1,991","1,920","1,543",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7347554,adhoc_sno_telugu_21122024,India,ENT,ML,NA,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7347554,adhoc_sno_telugu_21122024,India,ENT,ML_PF,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7347554,adhoc_sno_telugu_21122024,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000218351,9.18068E+11,7347554,NA,India,ENT,NA,NA,PMP,2,0,0,0,0,2,0,0
+"July 25, 2025",2000218351,9.18068E+11,7541292,ms3_200125,India,ENT,UC,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7541292,ms3_200125,India,ENT,Utility (billable),NA,PMP,29,29,0,0,0,29,0,0
+"July 25, 2025",2000218351,9.18068E+11,7541292,ms3_200125,India,ENT,Utility (billable),regular,PMP,518,518,517,481,442,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,7541292,ms3_200125,India,ENT,Utility (non-billable),free_customer_service,PMP,16,16,16,16,17,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7541292,NA,India,ENT,NA,NA,PMP,17,0,0,0,0,17,0,0
+"July 25, 2025",2000218351,9.18068E+11,756486,for_nux_day3_v5,India,ENT,marketing_lite,regular,PMP,0,0,0,0,19,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,756486,for_nux_day3_v5,India,ENT,ML,NA,CBP,0,0,0,0,23,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,756486,for_nux_day3_v5,India,ENT,ML_PF,NA,CBP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7574981,hindinewjoiners,India,ENT,marketing_lite,NA,PMP,"3,024","3,024",0,0,0,"3,024",0,0
+"July 25, 2025",2000218351,9.18068E+11,7574981,hindinewjoiners,India,ENT,marketing_lite,regular,PMP,"7,664","7,664","7,654","7,217","4,374",10,0,0
+"July 25, 2025",2000218351,9.18068E+11,7574981,NA,India,ENT,NA,NA,PMP,6,0,0,0,0,6,0,0
+"July 25, 2025",2000218351,9.18068E+11,7579925,sno_rj_telugu,India,ENT,marketing_lite,regular,PMP,0,0,0,0,239,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7587315,bgv14022025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7588750,sno_kannada,India,ENT,marketing_lite,regular,PMP,0,0,0,0,37,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7597987,NA,India,ENT,NA,NA,PMP,680,0,0,0,0,680,0,0
+"July 25, 2025",2000218351,9.18068E+11,7597987,soc_tn_dormatfp,India,ENT,marketing_lite,NA,PMP,"10,741","10,741",0,0,0,"10,741",0,0
+"July 25, 2025",2000218351,9.18068E+11,7597987,soc_tn_dormatfp,India,ENT,marketing_lite,regular,PMP,"9,716","9,716","9,685","7,891","6,367",32,0,0
+"July 25, 2025",2000218351,9.18068E+11,7597987,soc_tn_dormatfp,India,ENT,ML,NA,CBP,0,0,0,0,30,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7597987,soc_tn_dormatfp,India,ENT,ML_PF,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7597987,soc_tn_dormatfp,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000218351,9.18068E+11,7627468,sno_kannada_referral,India,ENT,marketing_lite,NA,PMP,60,60,0,0,0,60,0,0
+"July 25, 2025",2000218351,9.18068E+11,7627468,sno_kannada_referral,India,ENT,marketing_lite,regular,PMP,142,142,142,138,106,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7627468,sno_kannada_referral,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7627468,sno_kannada_referral,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628126,de_logged_in_rejected_canceled_order,India,ENT,marketing_lite,NA,PMP,"1,023","1,023",0,0,0,"1,023",0,0
+"July 25, 2025",2000218351,9.18068E+11,7628126,de_logged_in_rejected_canceled_order,India,ENT,marketing_lite,regular,PMP,886,886,884,835,452,2,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628126,NA,India,ENT,NA,NA,PMP,5,0,0,0,0,5,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628209,de_logged_in_couple_of_mins_but_havent_got_any_order,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628242,de_logged_in_for_few_hours_no_orders,India,ENT,marketing_lite,NA,PMP,665,665,0,0,0,665,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628242,de_logged_in_for_few_hours_no_orders,India,ENT,marketing_lite,regular,PMP,570,570,570,537,294,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628242,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628245,de_logged_in_oozoop,India,ENT,marketing_lite,NA,PMP,"2,655","2,655",0,0,0,"2,655",0,0
+"July 25, 2025",2000218351,9.18068E+11,7628245,de_logged_in_oozoop,India,ENT,marketing_lite,regular,PMP,"2,503","2,503","2,503","2,423","1,394",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628245,NA,India,ENT,NA,NA,PMP,13,0,0,0,0,13,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628248,de_not_logged_in_at_all,India,ENT,marketing_lite,NA,PMP,"2,058","2,058",0,0,0,"2,058",0,0
+"July 25, 2025",2000218351,9.18068E+11,7628248,de_not_logged_in_at_all,India,ENT,marketing_lite,regular,PMP,"2,000","2,000","1,999","1,916","1,014",1,0,0
+"July 25, 2025",2000218351,9.18068E+11,7628248,de_not_logged_in_at_all,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000218351,9.18068E+11,7628248,NA,India,ENT,NA,NA,PMP,4,0,0,0,0,4,0,0
+"July 25, 2025",2000218351,9.18068E+11,7666194,jh_250325,India,ENT,marketing_lite,NA,PMP,"2,337","2,337",0,0,0,"2,337",0,0
+"July 25, 2025",2000218351,9.18068E+11,7666194,jh_250325,India,ENT,marketing_lite,regular,PMP,"7,058","7,058","7,047","6,653","4,098",11,0,0
+"July 25, 2025",2000218351,9.18068E+11,7666194,jh_250325,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000218351,9.18068E+11,7666194,NA,India,ENT,NA,NA,PMP,2,0,0,0,0,2,0,0
+"July 25, 2025",2000218351,9.18068E+11,7671651,surge_update_26032025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7676001,aptsoc_280325,India,ENT,marketing_lite,NA,PMP,"7,954","7,954",0,0,8,"7,954",0,0
+"July 25, 2025",2000218351,9.18068E+11,7676001,aptsoc_280325,India,ENT,marketing_lite,regular,PMP,"13,392","13,392","13,380","11,291","8,404",12,0,0
+"July 25, 2025",2000218351,9.18068E+11,7676001,aptsoc_280325,India,ENT,ML,NA,CBP,0,0,0,0,22,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7676001,aptsoc_280325,India,ENT,ML_PF,NA,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7676001,aptsoc_280325,India,ENT,ML_PF,regular,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7676001,NA,India,ENT,NA,NA,PMP,488,0,0,0,0,488,0,0
+"July 25, 2025",2000218351,9.18068E+11,7677628,NA,India,ENT,NA,NA,PMP,52,0,0,0,0,52,0,0
+"July 25, 2025",2000218351,9.18068E+11,7677628,soc_ka_cities_01042025,India,ENT,marketing_lite,NA,PMP,869,869,0,0,2,869,0,0
+"July 25, 2025",2000218351,9.18068E+11,7677628,soc_ka_cities_01042025,India,ENT,marketing_lite,regular,PMP,"1,687","1,687","1,687","1,512","1,180",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7677628,soc_ka_cities_01042025,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7677628,soc_ka_cities_01042025,India,ENT,ML_PF,NA,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7677628,soc_ka_cities_01042025,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7677821,bgv_010425,India,ENT,Utility (billable),regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7711766,sailila,India,ENT,marketing_lite,regular,PMP,0,0,0,0,232,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7712196,tamilreferral10042025,India,ENT,marketing_lite,regular,PMP,0,0,0,1,173,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7712196,tamilreferral10042025,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7712215,socreferral10042025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7713507,tnsoc_10042025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,46,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7713507,tnsoc_10042025,India,ENT,ML,NA,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7713507,tnsoc_10042025,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7713507,tnsoc_10042025,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7716290,ref_120425,India,ENT,marketing_lite,regular,PMP,0,0,0,0,336,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7716290,ref_120425,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7716290,ref_120425,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7740638,petrolsochindi,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7740638,petrolsochindi,India,ENT,ML,NA,CBP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7740638,petrolsochindi,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7750260,adhoc_surat_07052025,India,ENT,Utility (billable),regular,PMP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7752139,nu_mg_reliability_09052025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,73,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7752139,nu_mg_reliability_09052025,India,ENT,ML,NA,CBP,0,0,0,0,47,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7752139,nu_mg_reliability_09052025,India,ENT,ML_PF,NA,CBP,0,0,0,0,81,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7752139,nu_mg_reliability_09052025,India,ENT,ML_PF,regular,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7756502,sno_malayalam,India,ENT,marketing_lite,regular,PMP,0,0,0,0,325,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7756502,sno_malayalam,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7789687,NA,India,ENT,NA,NA,PMP,110,0,0,0,0,110,0,0
+"July 25, 2025",2000218351,9.18068E+11,7789687,referral_drop_off_expt,India,ENT,marketing_lite,NA,PMP,"2,012","2,012",0,0,0,"2,012",0,0
+"July 25, 2025",2000218351,9.18068E+11,7789687,referral_drop_off_expt,India,ENT,marketing_lite,regular,PMP,"1,602","1,602","1,602","1,504","1,296",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7789687,referral_drop_off_expt,India,ENT,ML,NA,CBP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7789687,referral_drop_off_expt,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7789687,referral_drop_off_expt,India,ENT,ML_PF,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7793598,monsoon_dhamaka_offer_malyalam_26052025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,253,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7793598,monsoon_dhamaka_offer_malyalam_26052025,India,ENT,ML,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7793598,monsoon_dhamaka_offer_malyalam_26052025,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7803906,socrj03062025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7819726,sno_fieldrecruiter_june,India,ENT,marketing_lite,regular,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7820574,blrim1106,India,ENT,marketing_lite,regular,PMP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7837012,pod_comms,India,ENT,UC,NA,CBP,0,0,0,0,14,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7837012,pod_comms,India,ENT,UC,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7837012,pod_comms,India,ENT,UC_PF,NA,CBP,0,0,0,0,24,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7837012,pod_comms,India,ENT,UC_PF,regular,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7851418,adhoc_im_instamart_3slab_wmg,India,ENT,marketing_lite,regular,PMP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7852631,adhocpod_comms30062025,India,ENT,UC_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7852631,adhocpod_comms30062025,India,ENT,Utility (billable),regular,PMP,0,0,0,0,31,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7856308,bgv_failed,India,ENT,Utility (billable),regular,PMP,0,0,0,0,91,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7861596,dormant_leads_without_poster,India,ENT,marketing_lite,regular,PMP,0,0,0,0,20,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7861731,reliability_day8_04072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,63,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7879241,908522,India,ENT,Utility (billable),regular,PMP,0,0,0,0,25,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7879451,ob_xp_05072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7882104,tn_soc_nux_08072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,222",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7882630,NA,India,ENT,NA,NA,PMP,2,0,0,0,0,2,0,0
+"July 25, 2025",2000218351,9.18068E+11,7882630,reliability_soc_tn_09072025,India,ENT,marketing_lite,NA,PMP,731,731,0,0,0,731,0,0
+"July 25, 2025",2000218351,9.18068E+11,7882630,reliability_soc_tn_09072025,India,ENT,marketing_lite,regular,PMP,"1,459","1,459","1,457","1,404","1,098",2,0,0
+"July 25, 2025",2000218351,9.18068E+11,7883124,kerala_malayalam_flatpay_09072025,India,ENT,marketing,regular,PMP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7892290,fr_15072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,21,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7896412,lb_fresh_17072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898115,central_onboarding_generic_eng_jaipur_lucknow,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898117,central_ob_lucknow_hindi_july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898238,fr_19072025,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898238,fr_19072025,India,ENT,Utility (billable),regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898407,NA,India,ENT,NA,NA,PMP,3,0,0,0,0,3,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898407,rej_pitch_tamil_19072025,India,ENT,marketing_lite,NA,PMP,623,623,0,0,0,623,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898407,rej_pitch_tamil_19072025,India,ENT,marketing_lite,regular,PMP,463,463,463,436,256,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898407,rej_pitch_tamil_19072025,India,ENT,Utility (billable),regular,PMP,0,0,0,0,60,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7898407,rej_pitch_tamil_19072025,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7911865,t_leads_fr_eng_24072025,India,ENT,Utility (billable),regular,PMP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7914455,frtemplate,India,ENT,marketing_lite,NA,PMP,86,86,0,0,0,86,0,0
+"July 25, 2025",2000218351,9.18068E+11,7914455,frtemplate,India,ENT,marketing_lite,regular,PMP,138,138,138,127,99,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7914455,frtemplate,India,ENT,Utility (billable),regular,PMP,2,2,2,2,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,7914455,NA,India,ENT,NA,NA,PMP,13,0,0,0,0,13,0,0
+"July 25, 2025",2000218351,9.18068E+11,830923,NA,India,ENT,NA,NA,PMP,"1,326",0,0,0,0,"1,326",0,0
+"July 25, 2025",2000218351,9.18068E+11,830923,surge_5_aug_poster,India,ENT,marketing_lite,NA,PMP,"8,811","8,811",0,0,0,"8,811",0,0
+"July 25, 2025",2000218351,9.18068E+11,830923,surge_5_aug_poster,India,ENT,marketing_lite,regular,PMP,"7,672","7,672","7,645","6,994","4,114",27,0,0
+"July 25, 2025",2000218351,9.18068E+11,830923,surge_5_aug_poster,India,ENT,ML,NA,CBP,0,0,0,0,32,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,830923,surge_5_aug_poster,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,830923,surge_5_aug_poster,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000218351,9.18068E+11,834885,fp_pos_aug24,India,ENT,marketing_lite,regular,PMP,0,0,0,32,"9,179",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,834885,fp_pos_aug24,India,ENT,ML,NA,CBP,0,0,0,2,"1,824",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,834885,fp_pos_aug24,India,ENT,ML,regular,CBP,0,0,0,0,35,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,834885,fp_pos_aug24,India,ENT,ML_PF,NA,CBP,0,0,0,0,"1,096",0,0,0
+"July 25, 2025",2000218351,9.18068E+11,834885,fp_pos_aug24,India,ENT,ML_PF,regular,CBP,0,0,0,1,297,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,845305,lb_time_pos_aug24,India,ENT,marketing_lite,regular,PMP,0,0,0,1,852,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,845328,lbpeak_pos_aug24,India,ENT,marketing_lite,NA,PMP,"11,669","11,669",0,0,0,"11,669",0,0
+"July 25, 2025",2000218351,9.18068E+11,845328,lbpeak_pos_aug24,India,ENT,marketing_lite,regular,PMP,"6,102","6,102","6,084","5,583","2,844",18,0,0
+"July 25, 2025",2000218351,9.18068E+11,845328,lbpeak_pos_aug24,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,845328,lbpeak_pos_aug24,India,ENT,ML_PF,NA,CBP,0,0,0,0,28,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,845328,lbpeak_pos_aug24,India,ENT,NA,NA,PMP,3,3,0,0,0,0,3,0
+"July 25, 2025",2000218351,9.18068E+11,845328,NA,India,ENT,NA,NA,PMP,"1,230",0,0,0,0,"1,230",0,0
+"July 25, 2025",2000218351,9.18068E+11,851415,fc_yellow_limit,India,ENT,marketing_lite,NA,PMP,"11,406","11,406",0,0,1,"11,406",0,0
+"July 25, 2025",2000218351,9.18068E+11,851415,fc_yellow_limit,India,ENT,marketing_lite,regular,PMP,"11,621","11,621","11,605","10,732","8,424",19,0,0
+"July 25, 2025",2000218351,9.18068E+11,851415,fc_yellow_limit,India,ENT,ML,NA,CBP,0,0,0,0,123,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,851415,fc_yellow_limit,India,ENT,ML_PF,NA,CBP,0,0,0,0,49,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,851415,fc_yellow_limit,India,ENT,ML_PF,regular,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,851415,fc_yellow_limit,India,ENT,NA,NA,PMP,5,5,0,0,0,0,5,0
+"July 25, 2025",2000218351,9.18068E+11,851415,NA,India,ENT,NA,NA,PMP,"1,604",0,0,0,0,"1,604",0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,marketing_lite,NA,PMP,"28,809","28,809",0,0,0,"28,809",0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,marketing_lite,regular,PMP,"56,015","56,015","55,896","52,004","27,008",119,0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,UC,NA,CBP,0,0,0,0,597,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,UC,regular,CBP,0,0,0,0,20,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,UC_PF,NA,CBP,0,0,0,0,728,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,UC_PF,regular,CBP,0,0,0,1,22,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,Utility (billable),regular,PMP,0,0,0,31,"21,426",4,0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,im_raincomms_img_sep24,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,52,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,897335,NA,India,ENT,NA,NA,PMP,"1,815",0,0,0,0,"1,815",0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,NA,India,ENT,NA,NA,PMP,"1,480",0,0,0,0,"1,480",0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,marketing_lite,NA,PMP,"14,741","14,741",0,0,0,"14,741",0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,marketing_lite,regular,PMP,"12,634","12,634","12,619","11,602","6,355",15,0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,NA,NA,PMP,4,4,0,0,0,0,4,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,UC,NA,CBP,0,0,0,0,62,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,UC,regular,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,UC_PF,NA,CBP,0,0,0,0,45,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,UC_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,Utility (billable),regular,PMP,0,0,0,3,"1,497",1,0,0
+"July 25, 2025",2000218351,9.18068E+11,915315,september3slot_poster,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,917489,lb_sep2024poster,India,ENT,UC,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,917489,lb_sep2024poster,India,ENT,UC_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,917489,lb_sep2024poster,India,ENT,Utility (billable),regular,PMP,0,0,0,0,14,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,917489,lb_sep2024poster,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,919435,surge_5oct_poster,India,ENT,UC_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,919435,surge_5oct_poster,India,ENT,Utility (billable),regular,PMP,0,0,0,1,"1,032",7,0,0
+"July 25, 2025",2000218351,9.18068E+11,919435,surge_5oct_poster,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,953970,fp_com_181024,India,ENT,marketing_lite,NA,PMP,"7,995","7,995",0,0,0,"7,995",0,0
+"July 25, 2025",2000218351,9.18068E+11,953970,fp_com_181024,India,ENT,marketing_lite,regular,PMP,"24,465","24,465","24,442","20,555","9,978",23,0,0
+"July 25, 2025",2000218351,9.18068E+11,953970,NA,India,ENT,NA,NA,PMP,797,0,0,0,0,797,0,0
+"July 25, 2025",2000218351,9.18068E+11,955809,fp_50_1910,India,ENT,marketing_lite,NA,PMP,"9,460","9,460",0,0,0,"9,460",0,0
+"July 25, 2025",2000218351,9.18068E+11,955809,fp_50_1910,India,ENT,marketing_lite,regular,PMP,"11,808","11,808","11,790","9,917","6,863",19,0,0
+"July 25, 2025",2000218351,9.18068E+11,955809,fp_50_1910,India,ENT,ML,NA,CBP,0,0,0,0,42,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,955809,fp_50_1910,India,ENT,ML_PF,NA,CBP,0,0,0,0,18,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,955809,fp_50_1910,India,ENT,NA,NA,PMP,3,3,0,0,0,0,3,0
+"July 25, 2025",2000218351,9.18068E+11,955809,NA,India,ENT,NA,NA,PMP,655,0,0,0,0,655,0,0
+"July 25, 2025",2000218351,9.18068E+11,958338,dmg_pos_oct24,India,ENT,Utility (billable),regular,PMP,0,0,0,0,672,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,958338,dmg_pos_oct24,India,ENT,Utility (non-billable),free_customer_service,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,984200,imreactivation_08112024,India,ENT,marketing_lite,NA,PMP,"1,06,472","1,06,472",0,0,0,"1,06,472",0,0
+"July 25, 2025",2000218351,9.18068E+11,984200,imreactivation_08112024,India,ENT,marketing_lite,regular,PMP,"25,835","25,835","25,783","23,269","19,009",53,0,0
+"July 25, 2025",2000218351,9.18068E+11,984200,imreactivation_08112024,India,ENT,ML,NA,CBP,0,0,0,0,85,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,984200,imreactivation_08112024,India,ENT,ML,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,984200,imreactivation_08112024,India,ENT,ML_PF,NA,CBP,0,0,0,0,51,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,984200,imreactivation_08112024,India,ENT,ML_PF,regular,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,984200,imreactivation_08112024,India,ENT,NA,NA,PMP,26,26,0,0,0,0,26,0
+"July 25, 2025",2000218351,9.18068E+11,984200,NA,India,ENT,NA,NA,PMP,"3,099",0,0,0,0,"3,099",0,0
+"July 25, 2025",2000218351,9.18068E+11,985516,slotsignup_newde_day2_video,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000218351,9.18068E+11,985516,slotsignup_newde_day2_video,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,251,0,0,0,0,251,0,251
+"July 25, 2025",2000224275,9.18068E+11,1494768,dineout_golden_circle_sarjapur_road_12052025_v2_singlebutton,India,ENT,marketing_lite,NA,PMP,10,10,0,0,0,10,0,0
+"July 25, 2025",2000224275,9.18068E+11,1494768,dineout_golden_circle_sarjapur_road_12052025_v2_singlebutton,India,ENT,marketing_lite,regular,PMP,5,5,5,5,6,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1494768,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,1609579,do_wa_canopy_27june,India,ENT,ML,NA,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1609623,do_wa_themsbarbeq_27june,India,ENT,ML,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1609669,do_wa_one8comm_27june,India,ENT,ML,NA,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1609691,do_wa_kingsman_27june,India,ENT,ML,NA,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1611916,do_wa_freedrink_28june,India,ENT,ML,NA,CBP,0,0,0,0,34,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1611925,do_wa_freedrnksav_28june,India,ENT,ML,NA,CBP,0,0,0,0,73,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1611934,do_wa_hdfc_28june,India,ENT,ML,NA,CBP,0,0,0,0,41,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1614650,dineout_crosspoll_mb_claimed_not_txn_wa1_gs_01072025,India,ENT,marketing_lite,NA,PMP,"5,787","5,787",0,0,0,"5,786",0,0
+"July 25, 2025",2000224275,9.18068E+11,1614650,dineout_crosspoll_mb_claimed_not_txn_wa1_gs_01072025,India,ENT,marketing_lite,regular,PMP,"12,126","12,126","12,087","11,966","8,080",58,0,0
+"July 25, 2025",2000224275,9.18068E+11,1614650,dineout_crosspoll_mb_claimed_not_txn_wa1_gs_01072025,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000224275,9.18068E+11,1614650,NA,India,ENT,NA,NA,PMP,21,0,0,0,0,21,0,0
+"July 25, 2025",2000224275,9.18068E+11,1614660,dineout_crosspoll_mb_claimed_not_txn_wa2_gs_01072025,India,ENT,marketing_lite,NA,PMP,"5,196","5,196",0,0,0,"5,196",0,0
+"July 25, 2025",2000224275,9.18068E+11,1614660,dineout_crosspoll_mb_claimed_not_txn_wa2_gs_01072025,India,ENT,marketing_lite,regular,PMP,"7,972","7,972","7,938","7,796","5,648",52,0,0
+"July 25, 2025",2000224275,9.18068E+11,1614660,NA,India,ENT,NA,NA,PMP,41,0,0,0,0,41,0,0
+"July 25, 2025",2000224275,9.18068E+11,1618824,do_pn_payday_3july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,93,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1619653,do_wa_ys_4jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1619669,do_wa_yc_4jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1619676,do_wa_tt_4jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1619685,do_wa_sf_4jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1623350,do_wa_rudu_5july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,281,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1623370,do_wa_hdfc_5july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,26,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1623379,do_wa_cf_5july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,29,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1623384,do_wa_df_5july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,91,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1629759,do_wa_br_11july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,23,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1629768,do_wa_mr_11july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1629771,do_wa_mat_11july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,24,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1629774,do_wa_rbr_11july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,25,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1629776,do_wa_nh_11july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1629778,do_wa_sc_11july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1629780,do_wa_chandighar_11july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,62,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1633023,do_wa_chandighar_12july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,59,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1633035,do_wa_duru_12july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,112,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1633059,do_wa_delhi_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,52,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1643565,do_wa_smoor_17july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,28,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1643566,do_wa_yanyan_17july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,41,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1646251,do_wa_redbox_18july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,29,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1646253,do_wa_barbequetimes_18july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,28,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1646255,do_wa_drunkenbotanist_18july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,15,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1646294,do_wa_rotorooftop_18july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,50,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648070,do_wa_nu_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,304,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648090,do_wa_ru_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,635,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648095,do_wa_delhi_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,134,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648108,do_wa_pune_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,65,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648255,do_wa_du_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,301,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648330,do_wa_delhi_20july,India,ENT,marketing_lite,NA,PMP,"2,703","2,703",0,0,0,"2,703",0,0
+"July 25, 2025",2000224275,9.18068E+11,1648330,do_wa_delhi_20july,India,ENT,marketing_lite,regular,PMP,"3,773","3,773","3,767","3,670","1,596",6,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648330,NA,India,ENT,NA,NA,PMP,49,0,0,0,0,49,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648332,do_wa_blr_20july,India,ENT,marketing_lite,regular,PMP,0,0,0,0,73,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648334,do_wa_goa_20july,India,ENT,marketing_lite,NA,PMP,"2,536","2,536",0,0,0,"2,536",0,0
+"July 25, 2025",2000224275,9.18068E+11,1648334,do_wa_goa_20july,India,ENT,marketing_lite,regular,PMP,"4,614","4,614","4,589","4,490","2,073",25,0,0
+"July 25, 2025",2000224275,9.18068E+11,1648334,NA,India,ENT,NA,NA,PMP,32,0,0,0,0,32,0,0
+"July 25, 2025",2000224275,9.18068E+11,1659323,do_wa_blr_25july,India,ENT,marketing_lite,NA,PMP,"22,334","22,334",0,0,0,"22,334",0,0
+"July 25, 2025",2000224275,9.18068E+11,1659323,do_wa_blr_25july,India,ENT,marketing_lite,regular,PMP,"23,219","23,219","23,156","22,325","9,350",63,0,0
+"July 25, 2025",2000224275,9.18068E+11,1659323,do_wa_blr_25july,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000224275,9.18068E+11,1659323,NA,India,ENT,NA,NA,PMP,328,0,0,0,0,328,0,0
+"July 25, 2025",2000224275,9.18068E+11,1671363,do_wa_cashback_26july,India,ENT,marketing_lite,NA,PMP,4,4,0,0,0,4,0,0
+"July 25, 2025",2000224275,9.18068E+11,1671363,do_wa_cashback_26july,India,ENT,marketing_lite,regular,PMP,2,2,2,2,2,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1671371,do_wa_cashback2_26july,India,ENT,marketing_lite,regular,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1671373,do_wa_cashback3_26july,India,ENT,marketing_lite,regular,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,1671375,do_wa_delhi_26july,India,ENT,marketing_lite,regular,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,682485,dineout_txn_dj01_19aprl24,India,ENT,marketing_lite,NA,PMP,"2,365","2,365",0,0,0,"2,365",0,0
+"July 25, 2025",2000224275,9.18068E+11,682485,dineout_txn_dj01_19aprl24,India,ENT,marketing_lite,regular,PMP,"1,648","1,648","1,641","1,611","1,060",7,0,0
+"July 25, 2025",2000224275,9.18068E+11,682485,dineout_txn_dj01_19aprl24,India,ENT,ML,NA,CBP,0,0,0,0,13,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,682485,dineout_txn_dj01_19aprl24,India,ENT,ML_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,682485,NA,India,ENT,NA,NA,PMP,16,0,0,0,0,16,0,0
+"July 25, 2025",2000224275,9.18068E+11,682492,dineout_txn_dj03_19aprl24,India,ENT,marketing_lite,NA,PMP,"2,068","2,068",0,0,0,"2,068",0,0
+"July 25, 2025",2000224275,9.18068E+11,682492,dineout_txn_dj03_19aprl24,India,ENT,marketing_lite,regular,PMP,"2,453","2,453","2,449","2,380","1,286",4,0,0
+"July 25, 2025",2000224275,9.18068E+11,682492,dineout_txn_dj03_19aprl24,India,ENT,ML,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,682492,NA,India,ENT,NA,NA,PMP,27,0,0,0,0,27,0,0
+"July 25, 2025",2000224275,9.18068E+11,682505,dineout_txn_oc02_19aprl24,Chile,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,682505,dineout_txn_oc02_19aprl24,India,ENT,marketing_lite,NA,PMP,"1,976","1,976",0,0,0,"1,976",0,0
+"July 25, 2025",2000224275,9.18068E+11,682505,dineout_txn_oc02_19aprl24,India,ENT,marketing_lite,regular,PMP,"2,316","2,316","2,309","2,246","1,300",9,0,0
+"July 25, 2025",2000224275,9.18068E+11,682505,dineout_txn_oc02_19aprl24,India,ENT,ML,NA,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,682505,dineout_txn_oc02_19aprl24,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000224275,9.18068E+11,682505,NA,India,ENT,NA,NA,PMP,25,0,0,0,0,25,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062290,dineout_reservationwhatsapp_selfservebyrx_04062024,India,ENT,marketing_lite,NA,PMP,"1,778","1,778",0,0,0,"1,778",0,0
+"July 25, 2025",2000224275,9.18068E+11,7062290,dineout_reservationwhatsapp_selfservebyrx_04062024,India,ENT,marketing_lite,regular,PMP,476,476,475,445,337,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062290,dineout_reservationwhatsapp_selfservebyrx_04062024,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000224275,9.18068E+11,7062290,dineout_reservationwhatsapp_selfservebyrx_04062024,Iran,ENT,marketing_lite,NA,PMP,24,24,0,0,0,24,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062290,NA,India,ENT,NA,NA,PMP,314,0,0,0,0,314,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062306,dineout_reservationconfirmed_byrx_04062024,India,ENT,Utility (billable),regular,PMP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062320,dineout_reservationalready_cancelled_bycc_04062024,India,ENT,marketing_lite,NA,PMP,12,12,0,0,0,12,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062320,dineout_reservationalready_cancelled_bycc_04062024,India,ENT,marketing_lite,regular,PMP,8,8,8,8,3,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062333,dineout_reservation_alreadyconfirmed_bycc_04062024,India,ENT,Utility (billable),NA,PMP,2,2,0,0,0,2,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062333,dineout_reservation_alreadyconfirmed_bycc_04062024,India,ENT,Utility (billable),regular,PMP,9,9,9,9,2,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062333,dineout_reservation_alreadyconfirmed_bycc_04062024,India,ENT,Utility (non-billable),free_customer_service,PMP,10,10,10,10,10,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062333,NA,India,ENT,NA,NA,PMP,2,0,0,0,0,2,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062342,dineout_reservation_alreadyconfirmed_byrx_04062024,India,ENT,Utility (billable),NA,PMP,2,2,0,0,0,2,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062342,dineout_reservation_alreadyconfirmed_byrx_04062024,India,ENT,Utility (billable),regular,PMP,35,35,35,31,25,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062342,dineout_reservation_alreadyconfirmed_byrx_04062024,India,ENT,Utility (non-billable),free_customer_service,PMP,70,70,70,70,71,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062342,NA,India,ENT,NA,NA,PMP,7,0,0,0,0,7,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062347,dineout_reservation_alreadycancelled_byrx_04062024,India,ENT,Utility (billable),regular,PMP,3,3,3,1,0,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062347,dineout_reservation_alreadycancelled_byrx_04062024,India,ENT,Utility (non-billable),free_customer_service,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7062347,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,7092040,dineout_rushhour_cancelled_12072024,India,ENT,marketing_lite,NA,PMP,15,15,0,0,0,15,0,0
+"July 25, 2025",2000224275,9.18068E+11,7092040,dineout_rushhour_cancelled_12072024,India,ENT,marketing_lite,regular,PMP,3,3,3,3,2,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7136205,existing_google_cancel_update_28082024,India,ENT,UC,NA,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7136205,existing_google_cancel_update_28082024,India,ENT,Utility (billable),NA,PMP,60,60,0,0,0,60,0,0
+"July 25, 2025",2000224275,9.18068E+11,7136205,existing_google_cancel_update_28082024,India,ENT,Utility (billable),regular,PMP,"1,485","1,485","1,482","1,440",909,3,0,0
+"July 25, 2025",2000224275,9.18068E+11,7136205,existing_google_cancel_update_28082024,India,ENT,Utility (non-billable),free_customer_service,PMP,6,6,6,6,2,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7136205,NA,India,ENT,NA,NA,PMP,12,0,0,0,0,12,0,0
+"July 25, 2025",2000224275,9.18068E+11,7283690,dineout_prebook_cover_confirmed_wa_09102024_v17,India,ENT,marketing_lite,NA,PMP,"9,269","9,269",0,0,0,"9,269",0,0
+"July 25, 2025",2000224275,9.18068E+11,7283690,dineout_prebook_cover_confirmed_wa_09102024_v17,India,ENT,marketing_lite,regular,PMP,"7,221","7,221","7,208","6,971","4,095",13,0,0
+"July 25, 2025",2000224275,9.18068E+11,7283690,dineout_prebook_cover_confirmed_wa_09102024_v17,India,ENT,NA,NA,PMP,3,3,0,0,0,0,3,0
+"July 25, 2025",2000224275,9.18068E+11,7283690,dineout_prebook_cover_confirmed_wa_09102024_v17,India,ENT,UC,NA,CBP,0,0,0,0,80,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7283690,dineout_prebook_cover_confirmed_wa_09102024_v17,India,ENT,UC_PF,NA,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7283690,dineout_prebook_cover_confirmed_wa_09102024_v17,India,ENT,Utility (billable),regular,PMP,0,0,0,1,991,8,0,0
+"July 25, 2025",2000224275,9.18068E+11,7283690,NA,India,ENT,NA,NA,PMP,88,0,0,0,0,88,0,0
+"July 25, 2025",2000224275,9.18068E+11,7313883,do_reservation_confirm_pending_sdo_18122024,India,ENT,Utility (billable),NA,PMP,37,37,0,0,0,37,0,0
+"July 25, 2025",2000224275,9.18068E+11,7313883,do_reservation_confirm_pending_sdo_18122024,India,ENT,Utility (billable),regular,PMP,855,855,854,823,571,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,7313883,do_reservation_confirm_pending_sdo_18122024,India,ENT,Utility (non-billable),free_customer_service,PMP,1,1,1,1,2,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7313883,NA,India,ENT,NA,NA,PMP,2,0,0,0,0,2,0,0
+"July 25, 2025",2000224275,9.18068E+11,7581156,dineout_reservation_confirmation_no_bill_gs_07022025,India,ENT,Utility (billable),NA,PMP,3,3,0,0,0,3,0,0
+"July 25, 2025",2000224275,9.18068E+11,7581156,dineout_reservation_confirmation_no_bill_gs_07022025,India,ENT,Utility (billable),regular,PMP,54,54,54,49,23,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7581156,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,762696,dineout_txn_dj04_05may24,India,ENT,marketing_lite,NA,PMP,"2,299","2,299",0,0,0,"2,299",0,0
+"July 25, 2025",2000224275,9.18068E+11,762696,dineout_txn_dj04_05may24,India,ENT,marketing_lite,regular,PMP,"2,402","2,402","2,398","2,327","1,148",5,0,0
+"July 25, 2025",2000224275,9.18068E+11,762696,dineout_txn_dj04_05may24,India,ENT,ML,NA,CBP,0,0,0,0,19,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,762696,dineout_txn_dj04_05may24,Sweden,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,762696,NA,India,ENT,NA,NA,PMP,26,0,0,0,0,26,0,0
+"July 25, 2025",2000224275,9.18068E+11,7646299,dineout_booking_cancellation_resrv_only_gs_17032025,India,ENT,Utility (billable),regular,PMP,5,5,5,5,4,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7651126,dineout_google_reserv_confirm_nobillpay_gs_18032025,India,ENT,Utility (billable),regular,PMP,7,7,7,6,3,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7772478,dineout_dineout_reservationbooking_wa_gs_16052025,India,ENT,marketing_lite,NA,PMP,"4,316","4,316",0,0,0,"4,316",0,0
+"July 25, 2025",2000224275,9.18068E+11,7772478,dineout_dineout_reservationbooking_wa_gs_16052025,India,ENT,marketing_lite,regular,PMP,"5,657","5,657","5,636","5,445","3,309",21,0,0
+"July 25, 2025",2000224275,9.18068E+11,7772478,dineout_dineout_reservationbooking_wa_gs_16052025,India,ENT,ML,NA,CBP,0,0,0,0,25,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7772478,dineout_dineout_reservationbooking_wa_gs_16052025,India,ENT,NA,NA,PMP,3,3,0,0,0,0,3,0
+"July 25, 2025",2000224275,9.18068E+11,7772478,NA,India,ENT,NA,NA,PMP,51,0,0,0,0,51,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795532,do_dineout_realtime_sdoreminder_27052025_v2,India,ENT,marketing_lite,NA,PMP,"5,642","5,642",0,0,0,"5,642",0,0
+"July 25, 2025",2000224275,9.18068E+11,7795532,do_dineout_realtime_sdoreminder_27052025_v2,India,ENT,marketing_lite,regular,PMP,"2,639","2,639","2,632","2,546","1,540",7,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795532,do_dineout_realtime_sdoreminder_27052025_v2,India,ENT,ML,NA,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795532,do_dineout_realtime_sdoreminder_27052025_v2,India,ENT,ML_PF,NA,CBP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795532,NA,India,ENT,NA,NA,PMP,58,0,0,0,0,58,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795556,dineout_realtime_prebook_reminder_27052025_v2,India,ENT,marketing_lite,NA,PMP,"9,571","9,571",0,0,0,"9,571",0,0
+"July 25, 2025",2000224275,9.18068E+11,7795556,dineout_realtime_prebook_reminder_27052025_v2,India,ENT,marketing_lite,regular,PMP,"4,756","4,756","4,747","4,599","3,019",10,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795556,dineout_realtime_prebook_reminder_27052025_v2,India,ENT,ML,NA,CBP,0,0,0,0,26,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795556,dineout_realtime_prebook_reminder_27052025_v2,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795556,dineout_realtime_prebook_reminder_27052025_v2,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000224275,9.18068E+11,7795556,NA,India,ENT,NA,NA,PMP,81,0,0,0,0,81,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795566,dineout_realtime_google_reminder_27052025_v2,India,ENT,marketing_lite,NA,PMP,889,889,0,0,0,889,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795566,dineout_realtime_google_reminder_27052025_v2,India,ENT,marketing_lite,regular,PMP,710,710,710,701,401,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795566,dineout_realtime_google_reminder_27052025_v2,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795566,dineout_realtime_google_reminder_27052025_v2,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7795566,NA,India,ENT,NA,NA,PMP,5,0,0,0,0,5,0,0
+"July 25, 2025",2000224275,9.18068E+11,7827321,dineout_park_plus_gs_wa1_17062025,India,ENT,marketing_lite,NA,PMP,129,129,0,0,0,129,0,0
+"July 25, 2025",2000224275,9.18068E+11,7827321,dineout_park_plus_gs_wa1_17062025,India,ENT,marketing_lite,regular,PMP,57,57,57,56,37,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7904801,dinecash_credited_on_paying_bill_imdly_gs_wa1_22072025,India,ENT,marketing,regular,PMP,2,2,2,2,2,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7904801,dinecash_credited_on_paying_bill_imdly_gs_wa1_22072025,India,ENT,marketing_lite,NA,PMP,409,409,0,0,0,409,0,0
+"July 25, 2025",2000224275,9.18068E+11,7904801,dinecash_credited_on_paying_bill_imdly_gs_wa1_22072025,India,ENT,marketing_lite,regular,PMP,202,202,200,192,66,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,7904801,dinecash_credited_on_paying_bill_imdly_gs_wa1_22072025,India,ENT,Utility (billable),NA,PMP,65,65,0,0,0,65,0,0
+"July 25, 2025",2000224275,9.18068E+11,7904801,dinecash_credited_on_paying_bill_imdly_gs_wa1_22072025,India,ENT,Utility (billable),regular,PMP,"1,986","1,986","1,980","1,899","1,051",14,0,0
+"July 25, 2025",2000224275,9.18068E+11,7904801,dinecash_credited_on_paying_bill_imdly_gs_wa1_22072025,India,ENT,Utility (non-billable),free_customer_service,PMP,2,2,2,2,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7904801,NA,India,ENT,NA,NA,PMP,30,0,0,0,0,30,0,0
+"July 25, 2025",2000224275,9.18068E+11,7914217,dinecash_expiring_1_day_wa1_gs_25072025,India,ENT,marketing_lite,NA,PMP,3,3,0,0,0,3,0,0
+"July 25, 2025",2000224275,9.18068E+11,7914217,dinecash_expiring_1_day_wa1_gs_25072025,India,ENT,marketing_lite,regular,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,7914572,dinecash_expiring_1_day_wa1_gs_25072025_v2,India,ENT,marketing_lite,regular,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,803817,dineout_im_09072024,India,ENT,marketing_lite,NA,PMP,200,200,0,0,0,200,0,0
+"July 25, 2025",2000224275,9.18068E+11,803817,dineout_im_09072024,India,ENT,marketing_lite,regular,PMP,293,293,292,289,190,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,803817,NA,India,ENT,NA,NA,PMP,2,0,0,0,0,2,0,0
+"July 25, 2025",2000224275,9.18068E+11,803824,dineout_im2_09072024,India,ENT,marketing_lite,NA,PMP,180,180,0,0,0,180,0,0
+"July 25, 2025",2000224275,9.18068E+11,803824,dineout_im2_09072024,India,ENT,marketing_lite,regular,PMP,263,263,263,257,116,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,803824,NA,India,ENT,NA,NA,PMP,1,0,0,0,0,1,0,0
+"July 25, 2025",2000224275,9.18068E+11,807813,dineout_rushhour_confirmed_12072024,India,ENT,marketing_lite,NA,PMP,135,135,0,0,0,135,0,0
+"July 25, 2025",2000224275,9.18068E+11,807813,dineout_rushhour_confirmed_12072024,India,ENT,marketing_lite,regular,PMP,93,93,93,92,53,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,970185,dineout_birthday_nudge_day12_28oct2024,India,ENT,marketing_lite,NA,PMP,"1,090","1,090",0,0,0,"1,090",0,0
+"July 25, 2025",2000224275,9.18068E+11,970185,dineout_birthday_nudge_day12_28oct2024,India,ENT,marketing_lite,regular,PMP,"1,454","1,454","1,451","1,419","1,019",3,0,0
+"July 25, 2025",2000224275,9.18068E+11,970185,dineout_birthday_nudge_day12_28oct2024,India,ENT,ML,NA,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,970185,NA,India,ENT,NA,NA,PMP,9,0,0,0,0,9,0,0
+"July 25, 2025",2000224275,9.18068E+11,970344,dineout_birthday_nudge_day2_28oct2024,India,ENT,marketing_lite,NA,PMP,"1,089","1,089",0,0,0,"1,089",0,0
+"July 25, 2025",2000224275,9.18068E+11,970344,dineout_birthday_nudge_day2_28oct2024,India,ENT,marketing_lite,regular,PMP,"1,523","1,523","1,521","1,488",910,2,0,0
+"July 25, 2025",2000224275,9.18068E+11,970344,dineout_birthday_nudge_day2_28oct2024,India,ENT,ML,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000224275,9.18068E+11,970344,NA,India,ENT,NA,NA,PMP,20,0,0,0,0,20,0,0
+"July 25, 2025",2000231464,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,22,0,0,0,0,22,0,22
+"July 25, 2025",2000231464,9.18068E+11,1214869,im_nu_food_ru_cart_dropoff_crosspoll_wa_gs_24012025,India,ENT,marketing_lite,NA,PMP,"12,020","12,020",0,0,0,"12,020",0,0
+"July 25, 2025",2000231464,9.18068E+11,1214869,im_nu_food_ru_cart_dropoff_crosspoll_wa_gs_24012025,India,ENT,marketing_lite,regular,PMP,"27,949","27,949","27,841","26,927","20,758",108,0,0
+"July 25, 2025",2000231464,9.18068E+11,1214869,im_nu_food_ru_cart_dropoff_crosspoll_wa_gs_24012025,India,ENT,ML,NA,CBP,0,0,0,0,147,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1214869,im_nu_food_ru_cart_dropoff_crosspoll_wa_gs_24012025,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1214869,im_nu_food_ru_cart_dropoff_crosspoll_wa_gs_24012025,India,ENT,ML_PF,NA,CBP,0,0,0,0,14,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1214869,im_nu_food_ru_cart_dropoff_crosspoll_wa_gs_24012025,India,ENT,ML_PF,regular,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1214869,im_nu_food_ru_cart_dropoff_crosspoll_wa_gs_24012025,India,ENT,NA,NA,PMP,4,4,0,0,0,0,4,0
+"July 25, 2025",2000231464,9.18068E+11,1214869,NA,India,ENT,NA,NA,PMP,232,0,0,0,0,232,0,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,im_nu_food_ru_cp_dinner_nudge_gs_14022025,Faroe Islands,ENT,marketing_lite,NA,PMP,1,1,0,0,0,1,0,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,im_nu_food_ru_cp_dinner_nudge_gs_14022025,India,ENT,marketing_lite,NA,PMP,"23,325","23,325",0,0,0,"23,325",0,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,im_nu_food_ru_cp_dinner_nudge_gs_14022025,India,ENT,marketing_lite,regular,PMP,"46,304","46,304","46,028","44,302","31,556",277,0,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,im_nu_food_ru_cp_dinner_nudge_gs_14022025,India,ENT,ML,NA,CBP,0,0,0,1,449,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,im_nu_food_ru_cp_dinner_nudge_gs_14022025,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,im_nu_food_ru_cp_dinner_nudge_gs_14022025,India,ENT,ML_PF,NA,CBP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,im_nu_food_ru_cp_dinner_nudge_gs_14022025,India,ENT,NA,NA,PMP,2,2,0,0,0,0,2,0
+"July 25, 2025",2000231464,9.18068E+11,1254766,NA,India,ENT,NA,NA,PMP,602,0,0,0,0,602,0,0
+"July 25, 2025",2000231464,9.18068E+11,1391433,mb_claimed_no_im_order_gs_01042025,India,ENT,marketing_lite,NA,PMP,"15,195","15,195",0,0,0,"15,196",0,0
+"July 25, 2025",2000231464,9.18068E+11,1391433,mb_claimed_no_im_order_gs_01042025,India,ENT,marketing_lite,regular,PMP,"24,789","24,789","24,698","23,630","16,021",92,0,0
+"July 25, 2025",2000231464,9.18068E+11,1391433,mb_claimed_no_im_order_gs_01042025,India,ENT,ML,NA,CBP,0,0,0,0,430,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1391433,mb_claimed_no_im_order_gs_01042025,India,ENT,ML_PF,NA,CBP,0,0,0,0,21,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1391433,mb_claimed_no_im_order_gs_01042025,India,ENT,ML_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1391433,mb_claimed_no_im_order_gs_01042025,India,ENT,NA,NA,PMP,7,7,0,0,0,0,7,0
+"July 25, 2025",2000231464,9.18068E+11,1391433,NA,India,ENT,NA,NA,PMP,632,0,0,0,0,632,0,0
+"July 25, 2025",2000231464,9.18068E+11,1565942,instamart_search_dropoff_nu_gs_04062025,India,ENT,marketing_lite,NA,PMP,"12,784","12,784",0,0,0,"12,784",0,0
+"July 25, 2025",2000231464,9.18068E+11,1565942,instamart_search_dropoff_nu_gs_04062025,India,ENT,marketing_lite,regular,PMP,"3,082","3,082","3,065","2,958","2,102",16,0,0
+"July 25, 2025",2000231464,9.18068E+11,1565942,instamart_search_dropoff_nu_gs_04062025,India,ENT,ML,NA,CBP,0,0,0,0,19,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1565942,instamart_search_dropoff_nu_gs_04062025,India,ENT,ML_PF,NA,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1565942,instamart_search_dropoff_nu_gs_04062025,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,1565942,NA,India,ENT,NA,NA,PMP,92,0,0,0,0,92,0,0
+"July 25, 2025",2000231464,9.18068E+11,1631790,instamart_2nd_order_retention_main_app_wa_gs_11072025,India,ENT,marketing_lite,NA,PMP,773,773,0,0,0,773,0,0
+"July 25, 2025",2000231464,9.18068E+11,1631790,instamart_2nd_order_retention_main_app_wa_gs_11072025,India,ENT,marketing_lite,regular,PMP,"1,672","1,672","1,667","1,589",958,5,0,0
+"July 25, 2025",2000231464,9.18068E+11,1631790,NA,India,ENT,NA,NA,PMP,25,0,0,0,0,25,0,0
+"July 25, 2025",2000231464,9.18068E+11,1639365,instamart_3rd_order_retention_wa1_gs_14072025,India,ENT,marketing_lite,NA,PMP,700,700,0,0,0,700,0,0
+"July 25, 2025",2000231464,9.18068E+11,1639365,instamart_3rd_order_retention_wa1_gs_14072025,India,ENT,marketing_lite,regular,PMP,"1,295","1,295","1,294","1,242",693,1,0,0
+"July 25, 2025",2000231464,9.18068E+11,1639365,NA,India,ENT,NA,NA,PMP,35,0,0,0,0,35,0,0
+"July 25, 2025",2000231464,9.18068E+11,957324,instamart_handpicked_post_1storder_blr_21102024,India,ENT,marketing_lite,NA,PMP,"3,809","3,809",0,0,0,"3,809",0,0
+"July 25, 2025",2000231464,9.18068E+11,957324,instamart_handpicked_post_1storder_blr_21102024,India,ENT,marketing_lite,regular,PMP,"2,874","2,874","2,862","2,655","1,444",12,0,0
+"July 25, 2025",2000231464,9.18068E+11,957324,instamart_handpicked_post_1storder_blr_21102024,India,ENT,ML,NA,CBP,0,0,0,0,21,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,957324,instamart_handpicked_post_1storder_blr_21102024,India,ENT,ML_PF,NA,CBP,0,0,0,0,13,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,957324,instamart_handpicked_post_1storder_blr_21102024,India,ENT,NA,NA,PMP,3,3,0,0,0,0,3,0
+"July 25, 2025",2000231464,9.18068E+11,957324,NA,India,ENT,NA,NA,PMP,114,0,0,0,0,114,0,0
+"July 25, 2025",2000231464,9.18068E+11,957337,instamart_handpicked_post_1storder_ncr_21102024,India,ENT,marketing_lite,NA,PMP,"2,439","2,439",0,0,0,"2,439",0,0
+"July 25, 2025",2000231464,9.18068E+11,957337,instamart_handpicked_post_1storder_ncr_21102024,India,ENT,marketing_lite,regular,PMP,"1,878","1,878","1,869","1,760",935,9,0,0
+"July 25, 2025",2000231464,9.18068E+11,957337,instamart_handpicked_post_1storder_ncr_21102024,India,ENT,ML,NA,CBP,0,0,0,0,14,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,957337,instamart_handpicked_post_1storder_ncr_21102024,India,ENT,ML_PF,NA,CBP,0,0,0,0,10,0,0,0
+"July 25, 2025",2000231464,9.18068E+11,957337,NA,India,ENT,NA,NA,PMP,78,0,0,0,0,78,0,0
+"July 25, 2025",2000231466,9.18068E+11,1332881,delhi_tempalte1,India,ENT,marketing_lite,regular,PMP,0,0,0,0,34,0,0,0
+"July 25, 2025",2000231629,9.18067E+11,7159696,payment,India,ENT,marketing_lite,NA,PMP,"1,650","1,650",0,0,0,"1,650",0,0
+"July 25, 2025",2000231629,9.18067E+11,7159696,payment,India,ENT,marketing_lite,regular,PMP,"2,449","2,449","2,441","2,380","1,444",8,0,0
+"July 25, 2025",2000231629,9.18067E+11,7159696,payment,India,ENT,ML,NA,CBP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000231629,9.18067E+11,7159696,payment,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000231629,9.18067E+11,831002,partner_assistant_welcome_message,India,ENT,marketing_lite,regular,PMP,0,0,0,0,53,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,-1,NA,India,ENT,NA,NA,PMP,25,0,0,0,0,25,0,25
+"July 25, 2025",2000250793,9.18068E+11,7454798,pyng_digital_order_delivered_seller_message_template,India,ENT,Utility (billable),regular,PMP,2,2,2,2,2,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7499064,pyng_appointment_order_accepted_seller_message_template,India,ENT,Utility (billable),regular,PMP,12,12,12,12,8,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7499114,pyng_appointment_order_cancelled_customer_seller_message_template,India,ENT,Utility (billable),regular,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7499180,pyng_appointment_order_upcoming_seller_message_template,India,ENT,Utility (billable),regular,PMP,10,10,10,10,8,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7499188,pyng_community_order_delivered_seller_message_template,India,ENT,Utility (billable),regular,PMP,2,2,2,2,2,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7573869,pyng_enquiry_order_followup_seller_message_template,India,ENT,Utility (billable),regular,PMP,6,6,6,6,12,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7575069,pyng_appointment_order_reschedule_seller_message_template,India,ENT,Utility (billable),regular,PMP,2,2,2,2,2,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7658194,pyng_quick_pay_order_delivered_seller_message_template_v2,India,ENT,Utility (billable),regular,PMP,10,10,10,10,10,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7667504,pyng_chat_reminder_seller_message_template,India,ENT,marketing_lite,NA,PMP,679,679,0,0,0,679,0,0
+"July 25, 2025",2000250793,9.18068E+11,7667504,pyng_chat_reminder_seller_message_template,India,ENT,marketing_lite,regular,PMP,276,276,276,269,215,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7679310,pyng_paid_enquiry_order_accepted_seller_message_template,India,ENT,Utility (billable),regular,PMP,2,2,2,2,0,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7761796,pyng_profile_on_hold_seller_message_template_v2,India,ENT,Utility (billable),regular,PMP,1,1,1,1,1,0,0,0
+"July 25, 2025",2000250793,9.18068E+11,7763312,pyng_profile_verified_seller_message_template_v2,India,ENT,marketing_lite,NA,PMP,3,3,0,0,0,3,0,0
+"July 25, 2025",2000250793,9.18068E+11,7763312,pyng_profile_verified_seller_message_template_v2,India,ENT,marketing_lite,regular,PMP,8,8,8,8,7,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1607070,snc_rnp_26jun25,India,ENT,ML,NA,CBP,0,0,0,0,23,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1607074,snc_du_26jun25,India,ENT,ML,NA,CBP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1607103,snc_college_26jun25,India,ENT,ML,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1607111,snc_corporate_26jun25,India,ENT,ML,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1613266,snc_npl_2jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1619908,snc_du_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,17,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1620039,sncwa_rnp_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1623423,snc_chocolateday_7jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1627498,snc_combos_10jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,46,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1631128,snc_item99_12jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,46,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1640697,sncwa_npl_16jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1647867,snc_npl_21jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,1656597,snc_npl_23jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000252201,9.18068E+11,7858741,snaccnps_4jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,68,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1600201,im_cam_22jun25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,296,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1600201,im_cam_22jun25,India,ENT,ML,NA,CBP,0,0,0,0,110,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1600203,im_cor_22jun25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,81,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1600203,im_cor_22jun25,India,ENT,ML,NA,CBP,0,0,0,0,51,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1600203,im_cor_22jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602553,im_hf_24jun25,India,ENT,ML,NA,CBP,0,0,0,0,413,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602553,im_hf_24jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,6,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602578,im_du1_24jun25,India,ENT,ML,NA,CBP,0,0,0,0,316,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602578,im_du1_24jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602770,im_eu1_24jun25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,0,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602770,im_eu1_24jun25,India,ENT,ML,NA,CBP,0,0,0,1,381,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602770,im_eu1_24jun25,India,ENT,ML,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1602770,im_eu1_24jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1606917,im_mtd1_25jun25,India,ENT,ML,NA,CBP,0,0,0,0,18,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1606929,im_mtd2_25jun25,India,ENT,ML,NA,CBP,0,0,0,0,209,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1606929,im_mtd2_25jun25,India,ENT,ML,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1609376,im_fnv1_26jun25,India,ENT,ML,NA,CBP,0,0,0,0,175,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1609376,im_fnv1_26jun25,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1609376,im_fnv1_26jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1609460,im_mtd1_26jun25,India,ENT,ML,NA,CBP,0,0,0,0,"1,554",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1609460,im_mtd1_26jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610169,im_du2_26jun25,India,ENT,ML,NA,CBP,0,0,0,2,"1,147",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610169,im_du2_26jun25,India,ENT,ML,regular,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610169,im_du2_26jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610194,im_nu1_27jun25,India,ENT,ML,NA,CBP,0,0,0,1,"1,022",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610194,im_nu1_27jun25,India,ENT,ML,regular,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610194,im_nu1_27jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,12,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610200,im_pharma_27jun25,India,ENT,ML,NA,CBP,0,0,0,1,244,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610200,im_pharma_27jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610204,im_simpl3_27jun25,India,ENT,ML,NA,CBP,0,0,0,0,305,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610204,im_simpl3_27jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,43,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610391,im_eu1_27june25,India,ENT,ML,NA,CBP,0,0,0,1,"2,907",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610391,im_eu1_27june25,India,ENT,ML,regular,CBP,0,0,0,0,9,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610391,im_eu1_27june25,India,ENT,ML_PF,NA,CBP,0,0,0,0,159,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610391,im_eu1_27june25,India,ENT,ML_PF,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610406,im_du1_27jun25,India,ENT,ML,NA,CBP,0,0,0,2,"3,487",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610406,im_du1_27jun25,India,ENT,ML,regular,CBP,0,0,0,0,17,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1610406,im_du1_27jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,28,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1611003,im_mu1_27jun25,India,ENT,ML,NA,CBP,0,0,0,0,357,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1611003,im_mu1_27jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,890,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1611714,im_mu2_27jun25,India,ENT,ML,NA,CBP,0,0,0,0,35,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1611714,im_mu2_27jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612008,im_maxsaver_28june25,India,ENT,ML,NA,CBP,0,0,0,1,"1,485",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612008,im_maxsaver_28june25,India,ENT,ML,regular,CBP,0,0,0,0,7,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612008,im_maxsaver_28june25,India,ENT,ML_PF,NA,CBP,0,0,0,0,224,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612033,im_eu1_28june25,India,ENT,ML,NA,CBP,0,0,0,0,149,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612033,im_eu1_28june25,India,ENT,ML_PF,NA,CBP,0,0,0,0,610,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612035,im_eu2_28june25,India,ENT,ML,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612035,im_eu2_28june25,India,ENT,ML_PF,NA,CBP,0,0,0,0,152,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612533,im_mu1_29jun25,India,ENT,ML,NA,CBP,0,0,0,0,100,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612533,im_mu1_29jun25,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612533,im_mu1_29jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,4,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612538,im_eu1_29jun25,India,ENT,ML,NA,CBP,0,0,0,0,"1,814",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612538,im_eu1_29jun25,India,ENT,ML,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1612538,im_eu1_29jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,11,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613024,im_max1_30jun25,India,ENT,ML,NA,CBP,0,0,0,0,99,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613024,im_max1_30jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613028,im_max2_30jun25,India,ENT,ML,NA,CBP,0,0,0,0,"2,668",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613028,im_max2_30jun25,India,ENT,ML,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613028,im_max2_30jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,159,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613278,im_du1_30jun25,India,ENT,ML,NA,CBP,0,0,0,2,"4,537",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613278,im_du1_30jun25,India,ENT,ML,regular,CBP,0,0,0,0,19,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1613278,im_du1_30jun25,India,ENT,ML_PF,NA,CBP,0,0,0,0,23,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1614341,im_du1_1jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,6,"7,768",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1614341,im_du1_1jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1615755,im_eu1_1jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,609,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1615755,im_eu1_1jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1615769,im_eu2_1jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"1,443",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1615769,im_eu2_1jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,5,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1615780,im_eu3_1jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,185,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1616394,im_du2_1jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,2,"3,000",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1616394,im_du2_1jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,8,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1617360,im_nu1_2jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,829,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1617542,im_milk_2jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,16,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1618581,im_nu1_3jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,816,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1618820,im_nudu_3jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1619043,im_hf1_3jun25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"2,655",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1619043,im_hf1_3jun25,India,ENT,ML_PF,regular,CBP,0,0,0,0,2,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1619872,im_mu_vhf_04july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,155,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1619940,im_mu_lf_04july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,678",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1619940,im_mu_lf_04july25,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1620050,im_hf2_4jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,429,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1623377,im_du1_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"2,967",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1623380,im_du2_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"2,060",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1623383,im_eu1_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,3,415,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1623387,im_eu2_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,2,"5,652",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1623396,im_eu3_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,317,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1623401,im_vg_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,280,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1623405,im_du3_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,8,"2,784",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624126,im_pharma_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,376,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624130,im_du1_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,3,"3,777",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624130,im_du1_6jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624134,im_ctd_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"1,058",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624134,im_ctd_6jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624142,im_sb_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"3,716",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624148,im_nu2_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,782,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624151,im_du2_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,3,"3,280",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624199,im_mu1_5jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,907",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624523,im_mu1_6jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,707",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1624679,im_du1_7jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,8,"3,543",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1625312,im_du2_7jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,868,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1625519,im_mu1_7jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,476,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1625701,im_mu1_8jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,320,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1625977,im_mu2_8jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,181,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1625983,im_mu3_8jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,298",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1626404,im_milk_8jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,17,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1627409,im_eu2_9jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,19,"1,486",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1627409,im_eu2_9jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1627425,im_eu11_9jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,53,"3,022",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1628297,im_eu_daily_10july25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,107,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1629248,im_fxm_coupon_10july25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,64,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1630081,im_instawoow_sale_11july25,India,ENT,marketing_lite,regular,PMP,0,0,0,130,"3,772",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1630087,im_black_11july25,India,ENT,marketing_lite,regular,PMP,0,0,0,185,"6,682",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1631713,im_mu_vhf_11july25,India,ENT,marketing_lite,regular,PMP,0,0,0,4,146,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1631727,im_mu_lf_11july25,India,ENT,marketing_lite,regular,PMP,0,0,0,55,"1,526",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1631735,im_french_fries_11july25,India,ENT,marketing_lite,regular,PMP,0,0,0,5,226,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1631740,im_nu_11july25,India,ENT,marketing_lite,regular,PMP,0,0,0,28,"2,534",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1632683,im_maxxsaver_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,30,741,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1632693,im_du_na_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,10,741,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1634999,im_mu_freecash_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,272,"5,063",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1635014,im_kol_instawoow_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,7,314,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1635086,im_mu_badexp_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,10,211,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1635201,im_campus_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,3,393,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1635208,im_corporate_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,4,100,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1635580,im_wa_stdu_12july25,India,ENT,marketing_lite,regular,PMP,0,0,0,170,"8,011",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1636407,im_pharma1_13july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,46,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1636430,im_pharma2_13july25,India,ENT,marketing_lite,regular,PMP,0,0,0,6,129,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1636440,im_instawoow_13july25,India,ENT,marketing_lite,regular,PMP,0,0,0,522,"14,504",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1636445,im_nu_focus_13july25,India,ENT,marketing_lite,regular,PMP,0,0,0,61,"3,587",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1636445,im_nu_focus_13july25,India,ENT,NA,NA,PMP,0,0,1,1,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1641431,im_ltdu_16july25,India,ENT,marketing_lite,regular,PMP,0,0,0,3,"2,462",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1641988,im_mu1_16jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,194",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1641995,im_mu2_16jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"2,570",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1643489,im_ltdu2_16july25,India,ENT,marketing_lite,regular,PMP,0,0,0,4,"2,372",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1643708,im_ltdu_17jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"2,461",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1643708,im_ltdu_17jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1643945,im_mumaxx_17jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,70,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1643951,im_eumaxx,India,ENT,marketing_lite,regular,PMP,0,0,0,0,93,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1643962,im_dumaxx_17jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,212,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648014,im_stdu1_19jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,411,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648025,im_mu_mum_19jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,453,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648287,im_png1_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,163",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648289,im_png2_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,2,"7,815",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648303,im_ltdu1_19july25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"3,023",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648456,im_pharma1_20jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,114,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648461,im_pharma2_20jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,642,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648463,im_pharma3_20jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,296,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648465,im_ltdu1_20jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,6,"3,805",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648620,im_hf1_20jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,"1,192",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1648645,im_cs_19jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,29,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1649167,im_nu_20jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"2,675",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1649394,im_ltdu1_21jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,16,"9,095",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1650879,im_bftd_22jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"4,221",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1656617,im_hf_eu1_23jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,5,"8,096",12,0,0
+"July 25, 2025",2000252372,9.18068E+11,1656650,im_hf_eu2_23jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,3,"2,057",1,0,0
+"July 25, 2025",2000252372,9.18068E+11,1656661,im_eu1_23jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,13,"7,663",12,0,0
+"July 25, 2025",2000252372,9.18068E+11,1656661,im_eu1_23jul25,India,ENT,ML_PF,regular,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1657202,im_hkmu_24jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,1,"8,266",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1658279,im_hf_eu2_24jul25,India,ENT,marketing_lite,regular,PMP,0,0,1,4,"6,119",0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1659455,im_ttd_25jul25,India,ENT,marketing_lite,NA,PMP,"5,34,533","5,34,533",0,0,0,"5,34,533",0,0
+"July 25, 2025",2000252372,9.18068E+11,1659455,im_ttd_25jul25,India,ENT,marketing_lite,regular,PMP,"7,59,612","7,59,612","7,56,738","7,15,517","3,06,246","2,872",0,0
+"July 25, 2025",2000252372,9.18068E+11,1659455,im_ttd_25jul25,India,ENT,ML_PF,regular,CBP,1,1,1,0,0,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1659455,im_ttd_25jul25,India,ENT,NA,NA,PMP,24,24,0,0,0,0,24,0
+"July 25, 2025",2000252372,9.18068E+11,1659455,NA,India,ENT,NA,NA,PMP,"16,263",0,0,0,0,"16,263",0,0
+"July 25, 2025",2000252372,9.18068E+11,1659463,im_blck_25jul25,India,ENT,marketing_lite,NA,PMP,"2,50,823","2,50,823",0,0,0,"2,50,823",0,0
+"July 25, 2025",2000252372,9.18068E+11,1659463,im_blck_25jul25,India,ENT,marketing_lite,regular,PMP,"3,27,489","3,27,489","3,26,521","3,10,173","1,38,452",963,0,0
+"July 25, 2025",2000252372,9.18068E+11,1659463,im_blck_25jul25,India,ENT,NA,NA,PMP,138,138,0,0,0,0,138,0
+"July 25, 2025",2000252372,9.18068E+11,1659463,NA,India,ENT,NA,NA,PMP,"5,882",0,0,0,0,"5,882",0,0
+"July 25, 2025",2000252372,9.18068E+11,1663700,im_ltdu1_25jul25,India,ENT,marketing_lite,NA,PMP,"3,85,062","3,85,062",0,0,0,"3,85,062",0,0
+"July 25, 2025",2000252372,9.18068E+11,1663700,im_ltdu1_25jul25,India,ENT,marketing_lite,regular,PMP,"4,54,145","4,54,145","4,52,209","4,12,746","1,63,921","1,931",0,0
+"July 25, 2025",2000252372,9.18068E+11,1663700,im_ltdu1_25jul25,India,ENT,ML_PF,regular,CBP,4,4,4,3,0,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1663700,im_ltdu1_25jul25,India,ENT,NA,NA,PMP,137,137,0,0,0,0,137,0
+"July 25, 2025",2000252372,9.18068E+11,1663700,NA,India,ENT,NA,NA,PMP,"8,163",0,0,0,0,"8,163",0,0
+"July 25, 2025",2000252372,9.18068E+11,1664474,im_eu1_25jul25,India,ENT,marketing_lite,NA,PMP,"23,293","23,293",0,0,0,"23,293",0,0
+"July 25, 2025",2000252372,9.18068E+11,1664474,im_eu1_25jul25,India,ENT,marketing_lite,regular,PMP,"46,868","46,868","46,693","44,945","26,192",175,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664474,im_eu1_25jul25,India,ENT,NA,NA,PMP,12,12,0,0,0,0,12,0
+"July 25, 2025",2000252372,9.18068E+11,1664474,NA,India,ENT,NA,NA,PMP,632,0,0,0,0,632,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664484,im_eu2_25jul25,India,ENT,marketing_lite,NA,PMP,926,926,0,0,0,926,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664484,im_eu2_25jul25,India,ENT,marketing_lite,regular,PMP,"1,879","1,879","1,872","1,804",924,7,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664484,im_eu2_25jul25,India,ENT,NA,NA,PMP,1,1,0,0,0,0,1,0
+"July 25, 2025",2000252372,9.18068E+11,1664484,NA,India,ENT,NA,NA,PMP,18,0,0,0,0,18,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664493,im_eu3_25jul25,India,ENT,marketing_lite,NA,PMP,"1,080","1,080",0,0,0,"1,080",0,0
+"July 25, 2025",2000252372,9.18068E+11,1664493,im_eu3_25jul25,India,ENT,marketing_lite,regular,PMP,"2,308","2,308","2,301","2,219","1,095",7,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664493,NA,India,ENT,NA,NA,PMP,27,0,0,0,0,27,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664503,im_eu4_25jul25,India,ENT,marketing_lite,NA,PMP,"22,206","22,206",0,0,0,"22,206",0,0
+"July 25, 2025",2000252372,9.18068E+11,1664503,im_eu4_25jul25,India,ENT,marketing_lite,regular,PMP,"48,524","48,524","48,340","46,450","25,020",184,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664503,im_eu4_25jul25,India,ENT,NA,NA,PMP,3,3,0,0,0,0,3,0
+"July 25, 2025",2000252372,9.18068E+11,1664503,NA,India,ENT,NA,NA,PMP,555,0,0,0,0,555,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664514,im_eu5_25jul25,India,ENT,marketing_lite,NA,PMP,"2,98,849","2,98,849",0,0,0,"2,98,849",0,0
+"July 25, 2025",2000252372,9.18068E+11,1664514,im_eu5_25jul25,India,ENT,marketing_lite,regular,PMP,"6,16,718","6,16,718","6,14,302","5,89,517","2,94,574","2,411",0,0
+"July 25, 2025",2000252372,9.18068E+11,1664514,im_eu5_25jul25,India,ENT,NA,NA,PMP,139,139,0,0,0,0,139,0
+"July 25, 2025",2000252372,9.18068E+11,1664514,NA,India,ENT,NA,NA,PMP,"7,236",0,0,0,0,"7,236",0,0
+"July 25, 2025",2000252372,9.18068E+11,1664740,im_muts1_26jul25,India,ENT,marketing_lite,regular,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664749,im_muts2_26jul25,India,ENT,marketing_lite,regular,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664760,im_ltdu1_26jul25,India,ENT,marketing_lite,regular,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,1664771,im_mkvip_26jul25,India,ENT,marketing_lite,regular,PMP,1,1,1,1,0,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,7891423,im_noice_14july25,India,ENT,marketing_lite,regular,PMP,0,0,0,6,158,0,0,0
+"July 25, 2025",2000252372,9.18068E+11,7897957,im_noice_19jul25,India,ENT,marketing_lite,regular,PMP,0,0,0,0,3,0,0,0
+"July 25, 2025",2000252373,9.18068E+11,NA,NA,India,BOT,NA,NA,PMP,48,48,0,0,0,48,0,0
+"July 25, 2025",2000252373,9.18068E+11,NA,NA,India,BOT,SC,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252373,9.18068E+11,NA,NA,India,BOT,service,free_customer_service,PMP,"2,203","2,203","2,203","2,203","1,134",0,0,0
+"July 25, 2025",2000252938,9.18068E+11,NA,NA,India,BOT,ML_PF,NA,CBP,0,0,0,0,1,0,0,0
+"July 25, 2025",2000252938,9.18068E+11,NA,NA,India,BOT,service,free_customer_service,PMP,769,769,769,769,603,0,0,0
